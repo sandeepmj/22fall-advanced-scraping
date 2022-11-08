@@ -1,0 +1,994 @@
+index,Notice Type,Posted Date/Time,Notice Effective Date/Time,Notice End Date/Time,Notice Identifier,Subject,Response Date/Time,unit
+0,Operational Flow Order,11/01/2022 07:14:13 AM,11/01/2022 09:00:00 AM,01/30/2023 09:00:00 AM,126922,AGT Operational Flow Order -- LIFTED,,AG
+1,Capacity Constraint,10/31/2022 03:40:00 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126903,AGT Pipeline Conditions for 11/1/2022,,AG
+2,Capacity Constraint,10/30/2022 03:03:04 PM,10/31/2022 09:00:00 AM,11/01/2022 09:00:00 AM,126863,AGT Pipeline Conditions for 10/31/2022,,AG
+3,Capacity Constraint,10/29/2022 03:13:39 PM,10/30/2022 09:00:00 AM,10/31/2022 09:00:00 AM,126840,AGT Pipeline Conditions for 10/30/2022,,AG
+4,Capacity Constraint,10/28/2022 03:02:00 PM,10/29/2022 09:00:00 AM,10/30/2022 09:00:00 AM,126787,AGT Pipeline Conditions for 10/29//2022,,AG
+5,Capacity Constraint,10/27/2022 03:28:00 PM,10/28/2022 09:00:00 AM,10/29/2022 09:00:00 AM,126767,AGT Pipeline Conditions for 10/28/2022,,AG
+6,Operational Flow Order,10/27/2022 07:06:45 AM,10/29/2022 09:00:00 AM,01/25/2023 09:00:00 AM,126726,AGT Operational Flow Order,,AG
+7,Capacity Constraint,10/26/2022 03:09:00 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126720,AGT Pipeline Conditions for 10/27/2022,,AG
+8,Capacity Constraint,10/25/2022 04:15:00 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126676,AGT Pipeline Conditions for 10/26/2022,,AG
+9,Force Majeure,10/24/2022 05:40:39 PM,10/24/2022 05:40:39 PM,01/22/2023 05:40:39 PM,126641,G System Line G-1L Force Majeure -- LIFTED,,AG
+10,Capacity Constraint,10/24/2022 05:38:05 PM,10/24/2022 05:38:05 PM,01/22/2023 05:38:05 PM,126640,G System Line G-1L Unplanned Outage -- COMPLETE,,AG
+11,Capacity Constraint,10/24/2022 04:21:00 PM,10/25/2022 09:00:00 AM,10/26/2022 09:00:00 AM,126637,AGT Pipeline Conditions for 10/25/2022,,AG
+12,Operational Flow Order,10/24/2022 07:49:00 AM,10/24/2022 09:00:00 AM,01/22/2023 09:00:00 AM,126595,AGT Operational Flow Order -- LIFTED,,AG
+13,Capacity Constraint,10/23/2022 03:37:28 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126589,AGT Pipeline Conditions for 10/24/2022,,AG
+14,Force Majeure,10/23/2022 03:01:48 PM,10/23/2022 03:01:48 PM,01/21/2023 03:01:48 PM,126570,G System Line G-1L Force Majeure,,AG
+15,Capacity Constraint,10/23/2022 03:00:43 PM,10/23/2022 03:00:43 PM,01/21/2023 03:00:43 PM,126569,G System Line G-1L Unplanned Outage,,AG
+16,Capacity Constraint,10/22/2022 03:28:49 PM,10/23/2022 09:00:00 AM,10/24/2022 09:00:00 AM,126554,AGT Pipeline Conditions for 10/23/2022,,AG
+17,Capacity Constraint,10/21/2022 03:50:00 PM,10/22/2022 09:00:00 AM,10/23/2022 09:00:00 AM,126520,AGT Pipeline Conditions for 10/22/2022,,AG
+18,Capacity Constraint,10/20/2022 04:22:25 PM,10/21/2022 09:00:00 AM,10/22/2022 09:00:00 AM,126486,AGT Pipeline Conditions for 10/21/2022,,AG
+19,Operational Flow Order,10/20/2022 08:24:29 AM,10/22/2022 09:00:00 AM,01/18/2023 09:00:00 AM,126447,AGT Operational Flow Order,,AG
+20,Capacity Constraint,10/19/2022 04:28:00 PM,10/20/2022 09:00:00 AM,10/21/2022 09:00:00 AM,126441,AGT Pipeline Conditions for 10/20/2022,,AG
+21,Capacity Constraint,10/19/2022 07:42:00 AM,10/20/2022 09:00:00 AM,01/17/2023 09:00:00 AM,126410,AGT Imbalance Notice -- UPDATE,,AG
+22,Operational Flow Order,10/19/2022 07:22:26 AM,10/19/2022 07:22:26 AM,01/17/2023 07:22:26 AM,126409,AGT Operational Flow Order -- CANCELLED,,AG
+23,Operational Flow Order,10/19/2022 07:09:57 AM,10/20/2022 09:00:00 AM,01/17/2023 09:00:00 AM,126408,AGT Operational Flow Order,,AG
+24,Capacity Constraint,10/18/2022 03:20:00 PM,10/19/2022 09:00:00 AM,10/20/2022 09:00:00 AM,126403,AGT Pipeline Conditions for 10/19/2022,,AG
+25,Capacity Constraint,10/17/2022 03:15:00 PM,10/18/2022 09:00:00 AM,10/19/2022 09:00:00 AM,126343,AGT Pipeline Conditions for 10/18/2022,,AG
+26,Capacity Constraint,10/16/2022 03:09:16 PM,10/17/2022 09:00:00 AM,10/18/2022 09:00:00 AM,126317,AGT Pipeline Conditions for 10/17/2022,,AG
+27,Capacity Constraint,10/15/2022 02:51:12 PM,10/16/2022 09:00:00 AM,10/17/2022 09:00:00 AM,126273,AGT Pipeline Conditions for 10/16/2022,,AG
+28,Capacity Constraint,10/14/2022 02:55:58 PM,10/15/2022 09:00:00 AM,10/16/2022 09:00:00 AM,126238,AGT Pipeline Conditions for 10/15/2022,,AG
+29,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126203,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,AG
+30,Capacity Constraint,10/13/2022 02:40:14 PM,10/14/2022 09:00:00 AM,10/15/2022 09:00:00 AM,126177,AGT Pipeline Conditions for 10/14/2022,,AG
+31,Capacity Constraint,10/12/2022 03:52:00 PM,10/13/2022 09:00:00 AM,10/14/2022 09:00:00 AM,126161,AGT Pipeline Conditions for 10/13/2022,,AG
+32,Capacity Constraint,10/11/2022 03:11:00 PM,10/12/2022 09:00:00 AM,10/13/2022 09:00:00 AM,126127,AGT Pipeline Conditions for 10/12/2022,,AG
+33,Capacity Constraint,10/10/2022 03:24:30 PM,10/11/2022 09:00:00 AM,10/12/2022 09:00:00 AM,126053,AGT Pipeline Conditions for 10/11/2022,,AG
+34,Capacity Constraint,10/09/2022 03:43:07 PM,10/10/2022 09:00:00 AM,10/11/2022 09:00:00 AM,126012,AGT Pipeline Conditions for 10/10/2022,,AG
+35,Capacity Constraint,10/08/2022 03:23:00 PM,10/09/2022 09:00:00 AM,10/10/2022 09:00:00 AM,125979,AGT Pipeline Conditions for 10/9/2022,,AG
+36,Capacity Constraint,10/07/2022 03:40:00 PM,10/08/2022 09:00:00 AM,10/09/2022 09:00:00 AM,125941,AGT Pipeline Conditions for 10/8/2022,,AG
+37,Capacity Constraint,10/06/2022 03:30:00 PM,10/07/2022 09:00:00 AM,10/08/2022 09:00:00 AM,125907,AGT Pipeline Conditions for 10/7/2022,,AG
+38,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125866,LINK System Maintenance the weekend of October 14th,,AG
+39,Capacity Constraint,10/05/2022 04:02:00 PM,10/06/2022 09:00:00 AM,10/07/2022 09:00:00 AM,125851,AGT Pipeline Conditions for 10/6/2022,,AG
+40,Capacity Constraint,10/04/2022 03:34:54 PM,10/05/2022 09:00:00 AM,10/06/2022 09:00:00 AM,125814,AGT Pipeline Conditions for 10/5/2022,,AG
+41,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125765,"Reminder - Application Maintenance on Wednesday October 5, 2022",,AG
+42,Capacity Constraint,10/03/2022 03:03:00 PM,10/04/2022 09:00:00 AM,10/05/2022 09:00:00 AM,125743,AGT Pipeline Conditions for 10/4/2022,,AG
+43,Operational Flow Order,10/03/2022 07:56:03 AM,10/04/2022 09:00:00 AM,01/01/2023 09:00:00 AM,125724,AGT Operational Flow Order -- LIFTED,,AG
+44,Capacity Constraint,10/02/2022 03:34:36 PM,10/03/2022 09:00:00 AM,10/04/2022 09:00:00 AM,125720,AGT Pipeline Conditions for 10/3/2022,,AG
+45,Capacity Constraint,10/01/2022 03:14:19 PM,10/02/2022 09:00:00 AM,10/03/2022 09:00:00 AM,125685,AGT Pipeline Conditions for 10/2/2022,,AG
+46,Capacity Constraint,09/30/2022 03:42:00 PM,10/01/2022 09:00:00 AM,10/02/2022 09:00:00 AM,125654,AGT Pipeline Conditions for 10/1/2022,,AG
+47,Capacity Constraint,09/29/2022 02:54:18 PM,09/30/2022 09:00:00 AM,10/01/2022 09:00:00 AM,125602,AGT Pipeline Conditions for 9/30/2022,,AG
+48,Operational Flow Order,09/29/2022 08:10:00 AM,10/01/2022 09:00:00 AM,12/28/2022 09:00:00 AM,125588,AGT Operational Flow Order,,AG
+49,Capacity Constraint,09/28/2022 03:34:37 PM,09/29/2022 09:00:00 AM,09/30/2022 09:00:00 AM,125582,AGT Pipeline Conditions for 9/29/2022,,AG
+50,Capacity Constraint,09/27/2022 03:15:18 PM,09/28/2022 09:00:00 AM,09/29/2022 09:00:00 AM,125539,AGT Pipeline Conditions for 9/28/2022,,AG
+51,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125493,"LINK Application Maintenance Postponed until October 5, 2022",,AG
+52,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125465,"Reminder about Application Maintenance on Wednesday September 28, 2022",,AG
+53,Capacity Constraint,09/26/2022 03:00:00 PM,09/27/2022 09:00:00 AM,09/28/2022 09:00:00 AM,125449,AGT Pipeline Conditions for 9/27/2022,,AG
+54,Operational Flow Order,09/26/2022 07:58:00 AM,09/26/2022 09:00:00 AM,12/25/2022 09:00:00 AM,125434,AGT Operational Flow Order -- LIFTED,,AG
+55,Capacity Constraint,09/25/2022 02:38:36 PM,09/26/2022 09:00:00 AM,09/27/2022 09:00:00 AM,125417,AGT Pipeline Conditions for 9/26/2022,,AG
+56,Capacity Constraint,09/24/2022 02:49:14 PM,09/25/2022 09:00:00 AM,09/26/2022 09:00:00 AM,125390,AGT Pipeline Conditions for 9/25/2022,,AG
+57,Capacity Constraint,09/23/2022 03:01:00 PM,09/24/2022 09:00:00 AM,09/25/2022 09:00:00 AM,125362,AGT Pipeline Conditions for 9/24/2022,,AG
+58,Capacity Constraint,09/22/2022 03:07:58 PM,09/23/2022 09:00:00 AM,09/24/2022 09:00:00 AM,125342,AGT Pipeline Conditions for 9/23/2022,,AG
+59,Capacity Constraint,09/21/2022 02:46:28 PM,09/22/2022 09:00:00 AM,09/23/2022 09:00:00 AM,125295,AGT Pipeline Conditions for 9/22/2022,,AG
+60,Capacity Constraint,09/20/2022 02:50:00 PM,09/21/2022 09:00:00 AM,09/22/2022 09:00:00 AM,125257,AGT Pipeline Conditions for 9/21/2022,,AG
+61,Capacity Constraint,09/19/2022 03:48:07 PM,09/20/2022 09:00:00 AM,09/21/2022 09:00:00 AM,125238,AGT Pipeline Conditions for 9/20/2022,,AG
+62,Capacity Constraint,09/18/2022 03:15:55 PM,09/19/2022 09:00:00 AM,09/20/2022 09:00:00 AM,125210,AGT Pipeline Conditions for 9/19/2022,,AG
+63,Capacity Constraint,09/17/2022 03:31:31 PM,09/18/2022 09:00:00 AM,09/19/2022 09:00:00 AM,125182,AGT Pipeline Conditions for 9/18/2022,,AG
+64,Capacity Constraint,09/16/2022 03:08:00 PM,09/17/2022 09:00:00 AM,09/18/2022 09:00:00 AM,125154,AGT Pipeline Conditions for 9/17/2022,,AG
+65,Capacity Constraint,09/15/2022 03:25:21 PM,09/16/2022 09:00:00 AM,09/17/2022 09:00:00 AM,125122,AGT Pipeline Conditions for 9/16/2022,,AG
+66,Operational Flow Order,09/15/2022 07:55:00 AM,09/17/2022 09:00:00 AM,12/14/2022 09:00:00 AM,125097,AGT Operational Flow Order,,AG
+67,Capacity Constraint,09/14/2022 04:13:11 PM,09/15/2022 09:00:00 AM,09/16/2022 09:00:00 AM,125093,AGT Pipeline Conditions for 9/15/2022,,AG
+68,Capacity Constraint,09/13/2022 04:58:17 PM,09/14/2022 09:00:00 AM,09/15/2022 09:00:00 AM,125065,AGT Pipeline Conditions for 9/14/2022 -- INTRADAY,,AG
+69,Capacity Constraint,09/13/2022 03:37:56 PM,09/14/2022 09:00:00 AM,09/15/2022 09:00:00 AM,125062,AGT Pipeline Conditions for 9/14/2022,,AG
+70,Capacity Constraint,09/12/2022 03:12:00 PM,09/13/2022 09:00:00 AM,09/14/2022 09:00:00 AM,124983,AGT Pipeline Conditions for 9/13/2022,,AG
+71,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124931,"Changes to LINK System Maintenance for the week of September 12, 2022",,AG
+72,Capacity Constraint,09/11/2022 03:18:58 PM,09/12/2022 09:00:00 AM,09/13/2022 09:00:00 AM,124927,AGT Pipeline Conditions for 9/12/2022,,AG
+73,Capacity Constraint,09/10/2022 02:56:55 PM,09/11/2022 09:00:00 AM,09/12/2022 09:00:00 AM,124888,AGT Pipeline Conditions for 9/11/2022,,AG
+74,Capacity Constraint,09/09/2022 03:21:00 PM,09/10/2022 09:00:00 AM,09/11/2022 09:00:00 AM,124868,AGT Pipeline Conditions for 9/10/2022,,AG
+75,Capacity Constraint,09/08/2022 03:58:00 PM,09/09/2022 09:00:00 AM,09/10/2022 09:00:00 AM,124819,AGT Pipeline Conditions for 9/9/2022,,AG
+76,Capacity Constraint,09/07/2022 04:01:26 PM,09/08/2022 09:00:00 AM,09/09/2022 09:00:00 AM,124789,AGT Pipeline Conditions for 9/8/2022,,AG
+77,Capacity Constraint,09/06/2022 03:22:00 PM,09/07/2022 09:00:00 AM,09/08/2022 09:00:00 AM,124751,AGT Pipeline Conditions for 9/7/2022,,AG
+78,Capacity Constraint,09/05/2022 02:56:15 PM,09/06/2022 09:00:00 AM,09/07/2022 09:00:00 AM,124701,AGT Pipeline Conditions for 9/6/2022,,AG
+79,Capacity Constraint,09/04/2022 02:37:20 PM,09/05/2022 09:00:00 AM,09/06/2022 09:00:00 AM,124672,AGT Pipeline Conditions for 9/5/2022,,AG
+80,Capacity Constraint,09/03/2022 02:53:39 PM,09/04/2022 09:00:00 AM,09/05/2022 02:53:39 PM,124648,AGT Pipeline Conditions for 9/4/2022,,AG
+81,Capacity Constraint,09/02/2022 03:15:00 PM,09/03/2022 09:00:00 AM,09/04/2022 09:00:00 AM,124631,AGT Pipeline Conditions for 9/3/2022,,AG
+82,Capacity Constraint,09/01/2022 03:32:19 PM,09/02/2022 09:00:00 AM,09/03/2022 09:00:00 AM,124597,AGT Pipeline Conditions for 9/2/2022,,AG
+83,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124550,Application Maintenance on September 14,,AG
+84,Operational Flow Order,09/01/2022 08:15:13 AM,09/01/2022 09:00:00 AM,11/30/2022 09:00:00 AM,124548,AGT Customer Specific OFO -- LIFTED,,AG
+85,Operational Flow Order,09/01/2022 07:59:46 AM,09/03/2022 09:00:00 AM,09/06/2022 09:00:00 AM,124546,AGT Operational Flow Order,,AG
+86,Capacity Constraint,08/31/2022 03:47:14 PM,09/01/2022 09:00:00 AM,09/02/2022 09:00:00 AM,124538,AGT Pipeline Conditions for 9/1/2022,,AG
+87,Capacity Constraint,08/30/2022 03:45:00 PM,08/31/2022 09:00:00 AM,09/01/2022 09:00:00 AM,124506,AGT Pipeline Conditions for 8/31/2022,,AG
+88,Operational Flow Order,08/30/2022 09:05:00 AM,08/30/2022 09:05:00 AM,11/28/2022 09:05:00 AM,124479,AGT Customer Specific OFO - CORRECTION,,AG
+89,Operational Flow Order,08/30/2022 08:57:00 AM,08/30/2022 09:00:00 AM,11/28/2022 09:00:00 AM,124478,AGT Customer Specific OFO,,AG
+90,Capacity Constraint,08/29/2022 03:45:56 PM,08/30/2022 09:00:00 AM,08/31/2022 09:00:00 AM,124469,AGT Pipeline Conditions for 8/30/2022,,AG
+91,Capacity Constraint,08/28/2022 03:25:34 PM,08/29/2022 09:00:00 AM,08/30/2022 09:00:00 AM,124416,AGT Pipeline Conditions for 8/29/2022,,AG
+92,Capacity Constraint,08/27/2022 03:30:59 PM,08/28/2022 09:00:00 AM,08/29/2022 09:00:00 AM,124389,AGT Pipeline Conditions for 8/28/2022,,AG
+93,Capacity Constraint,08/26/2022 03:39:37 PM,08/27/2022 09:00:00 AM,08/28/2022 09:00:00 AM,124360,AGT Pipeline Conditions for 8/27/2022,,AG
+94,Capacity Constraint,08/25/2022 03:18:24 PM,08/26/2022 09:00:00 AM,08/27/2022 09:00:00 AM,124331,AGT Pipeline Conditions for 8/26/2022,,AG
+95,Operational Flow Order,08/25/2022 08:00:00 AM,08/26/2022 09:00:00 AM,08/27/2022 09:00:00 AM,124298,AGT Operational Flow Order,,AG
+96,Capacity Constraint,08/24/2022 03:46:07 PM,08/25/2022 09:00:00 AM,08/26/2022 09:00:00 AM,124288,AGT Pipeline Conditions for 8/25/2022,,AG
+97,Capacity Constraint,08/23/2022 03:25:31 PM,08/24/2022 09:00:00 AM,08/25/2022 09:00:00 AM,124261,AGT Pipeline Conditions for 8/24/2022,,AG
+98,Capacity Constraint,08/22/2022 02:59:00 PM,08/23/2022 09:00:00 AM,08/24/2022 09:00:00 AM,124214,AGT Pipeline Conditions for 8/23/2022,,AG
+99,Capacity Constraint,08/21/2022 03:01:06 PM,08/22/2022 09:00:00 AM,08/23/2022 09:00:00 AM,124183,AGT Pipeline Conditions for 8/22/2022,,AG
+100,Capacity Constraint,08/20/2022 03:14:38 PM,08/21/2022 09:00:00 AM,08/22/2022 09:00:00 AM,124167,AGT Pipeline Conditions for 8/21/2022,,AG
+101,Capacity Constraint,08/19/2022 03:22:00 PM,08/20/2022 09:00:00 AM,08/21/2022 09:00:00 AM,124141,AGT Pipeline Conditions for 8/20/2022,,AG
+102,Capacity Constraint,08/18/2022 03:05:00 PM,08/19/2022 09:00:00 AM,08/20/2022 09:00:00 AM,124100,AGT Pipeline Conditions for 8/19/2022,,AG
+103,Operational Flow Order,08/18/2022 03:00:00 PM,08/20/2022 09:00:00 AM,08/22/2022 09:00:00 AM,124079,AGT Operational Flow Order,,AG
+104,Capacity Constraint,08/18/2022 12:01:00 PM,08/18/2022 12:01:00 PM,11/16/2022 12:01:00 PM,124085,J System Line J-1 Valve Section 7 Isolation -- COMPLETE,,AG
+105,Capacity Constraint,08/18/2022 08:54:32 AM,08/18/2022 08:54:32 AM,11/16/2022 08:54:32 AM,124082,J System Line J-1 Valve Section 7 -- UPDATE,,AG
+106,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124055,LINK System Maintenance the weekend of September 16th,,AG
+107,Capacity Constraint,08/17/2022 03:25:00 PM,08/18/2022 09:00:00 AM,08/19/2022 09:00:00 AM,124051,AGT Pipeline Conditions for 8/18/2022,,AG
+108,Capacity Constraint,08/16/2022 03:19:18 PM,08/17/2022 09:00:00 AM,08/18/2022 09:00:00 AM,123975,AGT Pipeline Conditions for 8/17/2022,,AG
+109,Capacity Constraint,08/15/2022 03:10:00 PM,08/16/2022 09:00:00 AM,08/17/2022 09:00:00 AM,123933,AGT Pipeline Conditions for 8/16/2022,,AG
+110,Capacity Constraint,08/14/2022 02:58:25 PM,08/15/2022 09:00:00 AM,08/16/2022 09:00:00 AM,123908,AGT Pipeline Conditions for 8/15/2022,,AG
+111,Capacity Constraint,08/13/2022 02:59:03 PM,08/14/2022 09:00:00 AM,08/15/2022 09:00:00 AM,123881,AGT Pipeline Conditions for 8/14/2022,,AG
+112,Capacity Constraint,08/12/2022 03:03:12 PM,08/13/2022 09:00:00 AM,08/14/2022 09:00:00 AM,123845,AGT Pipeline Conditions for 8/13/2022,,AG
+113,Capacity Constraint,08/11/2022 02:50:59 PM,08/12/2022 09:00:00 AM,08/13/2022 09:00:00 AM,123809,AGT Pipeline Conditions for 8/12/2022,,AG
+114,Operational Flow Order,08/11/2022 07:57:00 AM,08/13/2022 09:00:00 AM,08/15/2022 09:00:00 AM,123793,AGT Operational Flow Order,,AG
+115,Capacity Constraint,08/10/2022 03:16:00 PM,08/11/2022 09:00:00 AM,08/12/2022 09:00:00 AM,123787,AGT Pipeline Conditions for 8/11/2022,,AG
+116,Capacity Constraint,08/09/2022 03:16:25 PM,08/10/2022 09:00:00 AM,08/11/2022 09:00:00 AM,123742,AGT Pipeline Conditions for 8/10/2022,,AG
+117,Capacity Constraint,08/08/2022 03:16:00 PM,08/09/2022 09:00:00 AM,08/10/2022 09:00:00 AM,123716,AGT Pipeline Conditions for 8/9/2022,,AG
+118,Operational Flow Order,08/08/2022 03:00:00 PM,08/10/2022 09:00:00 AM,11/06/2022 09:00:00 AM,123689,AGT Operational Flow Order -- LIFTED,,AG
+119,Capacity Constraint,08/07/2022 03:13:22 PM,08/08/2022 09:00:00 AM,08/09/2022 09:00:00 AM,123684,AGT Pipeline Conditions for 8/8/2022,,AG
+120,Capacity Constraint,08/06/2022 03:48:31 PM,08/07/2022 09:00:00 AM,08/08/2022 09:00:00 AM,123656,AGT Pipeline Conditions for 8/7/2022,,AG
+121,Capacity Constraint,08/05/2022 03:23:00 PM,08/06/2022 09:00:00 AM,08/07/2022 09:00:00 AM,123620,AGT Pipeline Conditions for 8/6/2022,,AG
+122,Capacity Constraint,08/04/2022 03:16:00 PM,08/05/2022 09:00:00 AM,08/06/2022 09:00:00 AM,123596,AGT Pipeline Conditions for 8/5/2022 -- CORRECTION,,AG
+123,Capacity Constraint,08/04/2022 03:11:11 PM,08/05/2022 09:00:00 AM,08/06/2022 09:00:00 AM,123595,AGT Pipeline Conditions for 8/5/2022,,AG
+124,Capacity Constraint,08/03/2022 03:57:00 PM,08/04/2022 09:00:00 AM,08/05/2022 09:00:00 AM,123563,AGT Pipeline Conditions for 8/4/2022,,AG
+0,Capacity Constraint,10/31/2022 04:11:00 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126913,Bobcat Storage Conditions for 11/1/2022,,BGS
+1,Capacity Constraint,10/30/2022 02:53:16 PM,10/31/2022 09:00:00 AM,11/01/2022 09:00:00 AM,126858,Bobcat Storage Conditions for 10/31/2022,,BGS
+2,Capacity Constraint,10/29/2022 03:07:12 PM,10/30/2022 09:00:00 AM,10/31/2022 09:00:00 AM,126837,Bobcat Storage Conditions for 10/30/2022,,BGS
+3,Capacity Constraint,10/26/2022 02:36:03 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126710,Bobcat Storage Conditions for 10/27/2022,,BGS
+4,Capacity Constraint,10/25/2022 04:01:21 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126671,Bobcat Storage Conditions for 10/26/2022,,BGS
+5,Capacity Constraint,10/24/2022 07:16:49 PM,10/25/2022 09:00:00 AM,10/26/2022 09:00:00 AM,126642,Bobcat Storage Conditions for 10/25/2022 -- INTRADAY,,BGS
+6,Capacity Constraint,10/23/2022 03:29:45 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126586,Bobcat Storage Conditions for 10/24/2022,,BGS
+7,Capacity Constraint,10/22/2022 02:53:42 PM,10/23/2022 09:00:00 AM,10/24/2022 09:00:00 AM,126543,Bobcat Storage Conditions for 10/23/2022,,BGS
+8,Capacity Constraint,10/21/2022 03:24:33 PM,10/22/2022 09:00:00 AM,10/23/2022 09:00:00 AM,126517,Bobcat Storage Conditions for 10/22/2022,,BGS
+9,Capacity Constraint,10/20/2022 04:21:04 PM,10/21/2022 09:00:00 AM,10/22/2022 09:00:00 AM,126483,Bobcat Storage Conditions for 10/21/2022,,BGS
+10,Capacity Constraint,10/16/2022 03:01:02 PM,10/17/2022 09:00:00 AM,10/18/2022 09:00:00 AM,126299,Bobcat Storage Conditions for 10/17/2022,,BGS
+11,Capacity Constraint,10/15/2022 02:47:57 PM,10/16/2022 09:00:00 AM,10/17/2022 09:00:00 AM,126272,Bobcat Storage Conditions for 10/16/2022,,BGS
+12,Capacity Constraint,10/14/2022 03:49:00 PM,10/15/2022 09:00:00 AM,10/16/2022 09:00:00 AM,126256,Bobcat Storage Conditions for 10/15/2022,,BGS
+13,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126204,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,BGS
+14,Capacity Constraint,10/13/2022 02:54:00 PM,10/14/2022 09:00:00 AM,10/15/2022 09:00:00 AM,126182,Bobcat Storage Conditions for 10/14/2022,,BGS
+15,Capacity Constraint,10/12/2022 03:20:36 PM,10/13/2022 09:00:00 AM,10/14/2022 09:00:00 AM,126155,Bobcat Storage Conditions for 10/13/2022,,BGS
+16,Capacity Constraint,10/11/2022 03:02:22 PM,10/12/2022 09:00:00 AM,10/13/2022 09:00:00 AM,126113,Bobcat Storage Conditions for 10/12/2022,,BGS
+17,Capacity Constraint,10/10/2022 03:33:54 PM,10/11/2022 09:00:00 AM,10/12/2022 09:00:00 AM,126057,Bobcat Storage Conditions for 10/11/2022,,BGS
+18,Capacity Constraint,10/09/2022 03:37:04 PM,10/10/2022 09:00:00 AM,10/11/2022 09:00:00 AM,126009,Bobcat Storage Conditions for 10/10/2022,,BGS
+19,Capacity Constraint,10/08/2022 03:16:56 PM,10/09/2022 09:00:00 AM,10/10/2022 09:00:00 AM,125975,Bobcat Storage Conditions for 10/9/2022,,BGS
+20,Capacity Constraint,10/07/2022 03:43:43 PM,10/08/2022 09:00:00 AM,10/09/2022 09:00:00 AM,125942,Bobcat Storage Conditions for 10/8/2022,,BGS
+21,Capacity Constraint,10/06/2022 03:13:47 PM,10/07/2022 09:00:00 AM,10/08/2022 09:00:00 AM,125906,Bobcat Storage Conditions for 10/7/2022,,BGS
+22,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125867,LINK System Maintenance the weekend of October 14th,,BGS
+23,Capacity Constraint,10/05/2022 03:04:42 PM,10/06/2022 09:00:00 AM,10/07/2022 09:00:00 AM,125834,Bobcat Storage Conditions for 10/6/2022,,BGS
+24,Capacity Constraint,10/04/2022 02:59:01 PM,10/05/2022 09:00:00 AM,10/06/2022 09:00:00 AM,125796,Bobcat Storage Conditions for 10/5/2022,,BGS
+25,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125766,"Reminder - Application Maintenance on Wednesday October 5, 2022",,BGS
+26,Capacity Constraint,10/03/2022 03:13:40 PM,10/04/2022 09:00:00 AM,10/05/2022 09:00:00 AM,125758,Bobcat Storage Conditions for 10/4/2022,,BGS
+27,Capacity Constraint,10/02/2022 02:59:33 PM,10/03/2022 09:00:00 AM,10/04/2022 09:00:00 AM,125701,Bobcat Storage Conditions for 10/3/2022,,BGS
+28,Capacity Constraint,10/01/2022 03:21:50 PM,10/02/2022 09:00:00 AM,10/03/2022 09:00:00 AM,125688,Bobcat Storage Conditions for 10/2/2022,,BGS
+29,Capacity Constraint,09/30/2022 03:45:39 PM,10/01/2022 09:00:00 AM,10/02/2022 09:00:00 AM,125655,Bobcat Storage Conditions for 10/1/2022,,BGS
+30,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125494,"LINK Application Maintenance Postponed until October 5, 2022",,BGS
+31,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125466,"Reminder about Application Maintenance on Wednesday September 28, 2022",,BGS
+32,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124932,"Changes to LINK System Maintenance for the week of September 12, 2022",,BGS
+33,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124551,Application Maintenance on September 14,,BGS
+34,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124056,LINK System Maintenance the weekend of September 16th,,BGS
+35,Capacity Constraint,08/10/2022 07:38:00 AM,08/10/2022 07:38:00 AM,11/08/2022 07:38:00 AM,123749,BGS Planned Outage -- COMPLETE,,BGS
+36,Capacity Constraint,08/09/2022 03:23:00 PM,08/10/2022 09:00:00 AM,08/11/2022 09:00:00 AM,123744,BGS Storage Conditions for 8/10/2022,,BGS
+37,Capacity Constraint,08/08/2022 02:28:07 PM,08/09/2022 09:00:00 AM,08/10/2022 09:00:00 AM,123696,Bobcat Storage Conditions for 8/9/2022,,BGS
+38,Capacity Constraint,08/07/2022 03:06:47 PM,08/08/2022 09:00:00 AM,08/09/2022 09:00:00 AM,123668,BGS Storage Conditions for 8/8/2022,,BGS
+39,Capacity Constraint,08/06/2022 03:32:29 PM,08/07/2022 09:00:00 AM,08/08/2022 09:00:00 AM,123649,BGS Storage Conditions for 8/7/2022,,BGS
+40,Capacity Constraint,08/05/2022 03:34:56 PM,08/06/2022 09:00:00 AM,08/07/2022 09:00:00 AM,123626,BGS Storage Conditions for 8/6/2022,,BGS
+41,Capacity Constraint,08/04/2022 02:29:21 PM,08/05/2022 09:00:00 AM,08/06/2022 09:00:00 AM,123579,BGS Storage Conditions for 8/5/2022,,BGS
+42,Capacity Constraint,08/03/2022 02:27:47 PM,08/04/2022 09:00:00 AM,08/05/2022 09:00:00 AM,123547,BGS Storage Conditions for 8/4/2022,,BGS
+0,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126205,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,BIG
+1,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125868,LINK System Maintenance the weekend of October 14th,,BIG
+2,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125767,"Reminder - Application Maintenance on Wednesday October 5, 2022",,BIG
+3,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125495,"LINK Application Maintenance Postponed until October 5, 2022",,BIG
+4,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125467,"Reminder about Application Maintenance on Wednesday September 28, 2022",,BIG
+5,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124933,"Changes to LINK System Maintenance for the week of September 12, 2022",,BIG
+6,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124552,Application Maintenance on September 14,,BIG
+7,Computer System Status,08/23/2022 08:25:51 AM,08/23/2022 08:25:51 AM,11/21/2022 08:25:51 AM,124230,Implementation of Texas Railroad Commission Curtailment Rule,,BIG
+8,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124057,LINK System Maintenance the weekend of September 16th,,BIG
+0,Capacity Constraint,10/28/2022 03:16:40 PM,10/28/2022 03:16:40 PM,01/26/2023 03:16:40 PM,126802,BSP Line H200 Isolation -- COMPLETE,,BSP
+1,Capacity Constraint,10/27/2022 02:30:28 PM,10/28/2022 09:00:00 AM,10/29/2022 09:00:00 AM,126748,BSP Pipeline Conditions for 10/28/2022,,BSP
+2,Capacity Constraint,10/26/2022 02:09:26 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126697,BSP Pipeline Conditions for 10/27/2022,,BSP
+3,Capacity Constraint,10/25/2022 04:14:41 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126675,BSP Pipeline Conditions for 10/26/2022,,BSP
+4,Capacity Constraint,10/24/2022 03:15:00 PM,10/25/2022 09:00:00 AM,10/26/2022 09:00:00 AM,126630,BSP Pipeline Conditions for 10/25/2022,,BSP
+5,Capacity Constraint,10/23/2022 03:28:46 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126585,BSP Pipeline Conditions for 10/24/2022,,BSP
+6,Capacity Constraint,10/22/2022 01:59:42 PM,10/23/2022 09:00:00 AM,10/24/2022 09:00:00 AM,126528,BSP Pipeline Conditions for 10/23/2022,,BSP
+7,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126206,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,BSP
+8,Force Majeure,10/11/2022 04:43:30 PM,10/11/2022 04:43:30 PM,01/09/2023 04:43:30 PM,126132,Big Sandy Pipeline Force Majeure - LIFTED,,BSP
+9,Capacity Constraint,10/11/2022 04:42:58 PM,10/11/2022 04:42:58 PM,01/09/2023 04:42:58 PM,126131,Big Sandy Pipeline Unplanned Outage - COMPLETE,,BSP
+10,Force Majeure,10/11/2022 12:36:59 PM,10/11/2022 12:36:59 PM,01/09/2023 12:36:59 PM,126099,Big Sandy Pipeline Force Majeure,,BSP
+11,Capacity Constraint,10/11/2022 12:33:01 PM,10/11/2022 12:33:01 PM,01/09/2023 12:33:01 PM,126098,Big Sandy Pipeline Unplanned Outage,,BSP
+12,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125869,LINK System Maintenance the weekend of October 14th,,BSP
+13,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125768,"Reminder - Application Maintenance on Wednesday October 5, 2022",,BSP
+14,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125496,"LINK Application Maintenance Postponed until October 5, 2022",,BSP
+15,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125468,"Reminder about Application Maintenance on Wednesday September 28, 2022",,BSP
+16,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124934,"Changes to LINK System Maintenance for the week of September 12, 2022",,BSP
+17,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124553,Application Maintenance on September 14,,BSP
+18,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124058,LINK System Maintenance the weekend of September 16th,,BSP
+0,Capacity Constraint,10/31/2022 04:01:00 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126911,Egan Storage Conditions for 11/1/2022,,EG
+1,Capacity Constraint,10/30/2022 02:56:05 PM,10/31/2022 09:00:00 AM,11/01/2022 09:00:00 AM,126859,Egan Storage Conditions for 10/31/2022,,EG
+2,Capacity Constraint,10/29/2022 03:05:00 PM,10/30/2022 09:00:00 AM,10/31/2022 09:00:00 AM,126822,Egan Storage Conditions for 10/30/2022,,EG
+3,Capacity Constraint,10/28/2022 03:27:00 PM,10/29/2022 09:00:00 AM,10/30/2022 09:00:00 AM,126806,Egan Storage Conditions for 10/29/2022,,EG
+4,Capacity Constraint,10/27/2022 03:23:00 PM,10/28/2022 09:00:00 AM,10/29/2022 09:00:00 AM,126765,Egan Storage Conditions for 10/28/2022,,EG
+5,Capacity Constraint,10/26/2022 02:34:32 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126706,Egan Storage Conditions for 10/27/2022,,EG
+6,Capacity Constraint,10/25/2022 04:08:42 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126674,Egan Storage Conditions for 10/26/2022,,EG
+7,Capacity Constraint,10/25/2022 10:19:22 AM,10/25/2022 10:19:22 AM,10/26/2022 09:00:00 AM,126644,EGAN Storage Conditions for 10/25/2022 -- INTRADAY,,EG
+8,Capacity Constraint,10/23/2022 03:27:43 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126584,Egan Storage Conditions for 10/24/2022,,EG
+9,Capacity Constraint,10/22/2022 02:49:35 PM,10/23/2022 09:00:00 AM,10/24/2022 09:00:00 AM,126539,Egan Storage Conditions for 10/23/2022,,EG
+10,Capacity Constraint,10/21/2022 03:22:29 PM,10/22/2022 09:00:00 AM,10/23/2022 09:00:00 AM,126516,Egan Storage Conditions for 10/22/2022,,EG
+11,Capacity Constraint,10/20/2022 04:17:20 PM,10/21/2022 09:00:00 AM,10/22/2022 09:00:00 AM,126482,Egan Storage Conditions for 10/21/2022,,EG
+12,Capacity Constraint,10/19/2022 03:23:10 PM,10/20/2022 09:00:00 AM,10/21/2022 09:00:00 AM,126436,Egan Storage Conditions for 10/20/2022,,EG
+13,Capacity Constraint,10/18/2022 03:09:40 PM,10/19/2022 09:00:00 AM,10/20/2022 09:00:00 AM,126402,Egan Storage Conditions for 10/19/2022,,EG
+14,Capacity Constraint,10/17/2022 03:25:00 PM,10/18/2022 09:00:00 AM,10/19/2022 09:00:00 AM,126347,Egan Storage Conditions for 10/18/2022,,EG
+15,Capacity Constraint,10/16/2022 03:00:02 PM,10/17/2022 09:00:00 AM,10/18/2022 09:00:00 AM,126298,Egan Storage Conditions for 10/17/2022,,EG
+16,Capacity Constraint,10/15/2022 02:46:39 PM,10/16/2022 09:00:00 AM,10/17/2022 09:00:00 AM,126271,Egan Storage Conditions for 10/16/2022,,EG
+17,Capacity Constraint,10/14/2022 03:44:00 PM,10/15/2022 09:00:00 AM,10/16/2022 09:00:00 AM,126254,Egan Storage Conditions for 10/15/2022,,EG
+18,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126207,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,EG
+19,Capacity Constraint,10/13/2022 03:03:00 PM,10/14/2022 09:00:00 AM,10/15/2022 09:00:00 AM,126183,Egan Storage Conditions for 10/14/2022,,EG
+20,Capacity Constraint,10/12/2022 03:24:15 PM,10/13/2022 09:00:00 AM,10/14/2022 09:00:00 AM,126158,Egan Storage Conditions for 10/13/2022,,EG
+21,Capacity Constraint,10/11/2022 03:05:10 PM,10/12/2022 09:00:00 AM,10/13/2022 09:00:00 AM,126114,Egan Storage Conditions for 10/12/2022,,EG
+22,Capacity Constraint,10/10/2022 03:38:25 PM,10/11/2022 09:00:00 AM,10/12/2022 09:00:00 AM,126060,Egan Storage Conditions for 10/11/2022,,EG
+23,Capacity Constraint,10/09/2022 03:34:50 PM,10/10/2022 09:00:00 AM,10/11/2022 09:00:00 AM,126004,Egan Storage Conditions for 10/10/2022,,EG
+24,Capacity Constraint,10/09/2022 01:10:00 PM,10/11/2022 09:00:00 AM,01/07/2023 09:00:00 AM,125983,Egan Operational Advisory,,EG
+25,Capacity Constraint,10/08/2022 03:18:28 PM,10/09/2022 09:00:00 AM,10/10/2022 09:00:00 AM,125976,Egan Storage Conditions for 10/9/2022,,EG
+26,Capacity Constraint,10/07/2022 03:49:01 PM,10/08/2022 09:00:00 AM,10/09/2022 09:00:00 AM,125944,Egan Storage Conditions for 10/8/2022,,EG
+27,Capacity Constraint,10/07/2022 01:36:58 PM,10/07/2022 01:36:58 PM,10/08/2022 09:00:00 AM,125917,Egan Storage Conditions for 10/7/2022 -- INTRADAY,,EG
+28,Capacity Constraint,10/07/2022 09:02:00 AM,10/07/2022 09:02:00 AM,10/08/2022 09:00:00 AM,125913,Egan Storage Conditions for 10/7/2022 -- INTRADAY,,EG
+29,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125870,LINK System Maintenance the weekend of October 14th,,EG
+30,Capacity Constraint,10/06/2022 10:38:51 AM,10/06/2022 10:38:51 AM,10/07/2022 09:00:00 AM,125858,Egan Storage Conditions for 10/6/2022 -- INTRADAY,,EG
+31,Capacity Constraint,10/04/2022 03:03:51 PM,10/05/2022 09:00:00 AM,10/06/2022 09:00:00 AM,125797,Egan Storage Conditions for 10/5/2022,,EG
+32,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125769,"Reminder - Application Maintenance on Wednesday October 5, 2022",,EG
+33,Capacity Constraint,10/03/2022 03:16:02 PM,10/04/2022 09:00:00 AM,10/05/2022 09:00:00 AM,125759,Egan Storage Conditions for 10/4/2022,,EG
+34,Capacity Constraint,10/02/2022 03:06:02 PM,10/03/2022 09:00:00 AM,10/04/2022 09:00:00 AM,125703,Egan Storage Conditions for 10/3/2022,,EG
+35,Capacity Constraint,10/01/2022 03:16:21 PM,10/02/2022 09:00:00 AM,10/03/2022 09:00:00 AM,125686,EGAN Storage Conditions for 10/2/2022,,EG
+36,Capacity Constraint,09/30/2022 03:47:36 PM,10/01/2022 09:00:00 AM,10/02/2022 09:00:00 AM,125656,Egan Storage Conditions for 10/1/2022,,EG
+37,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125497,"LINK Application Maintenance Postponed until October 5, 2022",,EG
+38,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125469,"Reminder about Application Maintenance on Wednesday September 28, 2022",,EG
+39,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124935,"Changes to LINK System Maintenance for the week of September 12, 2022",,EG
+40,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124554,Application Maintenance on September 14,,EG
+41,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124059,LINK System Maintenance the weekend of September 16th,,EG
+42,Capacity Constraint,08/11/2022 03:08:25 PM,08/12/2022 09:00:00 AM,08/13/2022 09:00:00 AM,123830,Egan Storage Conditions for 8/12/2022,,EG
+43,Capacity Constraint,08/09/2022 11:06:32 AM,08/09/2022 11:06:32 AM,08/10/2022 09:00:00 AM,123720,Egan Storage Conditions for 8/9/2022 -- INTRADAY,,EG
+0,Capacity Constraint,10/31/2022 03:43:00 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126904,ETNG Pipeline Conditions for 11/1/2022,,ET
+1,Capacity Constraint,10/30/2022 03:01:28 PM,10/31/2022 09:00:00 AM,11/01/2022 09:00:00 AM,126862,ETNG Pipeline Conditions for 10/31/2022,,ET
+2,Capacity Constraint,10/29/2022 03:12:07 PM,10/30/2022 09:00:00 AM,10/31/2022 09:00:00 AM,126839,ETNG Pipeline Conditions for 10/30/2022,,ET
+3,Capacity Constraint,10/28/2022 02:47:59 PM,10/29/2022 09:00:00 AM,10/30/2022 09:00:00 AM,126783,ETNG Pipeline Conditions for 10/29/2022,,ET
+4,Capacity Constraint,10/27/2022 02:29:14 PM,10/28/2022 09:00:00 AM,10/29/2022 09:00:00 AM,126747,ETNG Pipeline Conditions for 10/28/2022,,ET
+5,Capacity Constraint,10/26/2022 02:26:57 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126704,ETNG Pipeline Conditions for 10/27/2022,,ET
+6,Capacity Constraint,10/25/2022 04:16:00 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126677,ETNG Pipeline Conditions for 10/26/2022,,ET
+7,Capacity Constraint,10/24/2022 03:02:00 PM,10/25/2022 09:00:00 AM,10/26/2022 09:00:00 AM,126618,ETNG Pipeline Conditions for 10/25/2022,,ET
+8,Capacity Constraint,10/23/2022 03:35:04 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126588,ETNG Pipeline Conditions for 10/24/2022,,ET
+9,Capacity Constraint,10/22/2022 03:06:22 PM,10/23/2022 09:00:00 AM,10/24/2022 09:00:00 AM,126544,ETNG Pipeline Conditions for 10/23/2022,,ET
+10,Capacity Constraint,10/21/2022 03:40:00 PM,10/22/2022 09:00:00 AM,10/23/2022 09:00:00 AM,126519,ETNG Pipeline Conditions for 10/22/2022,,ET
+11,Capacity Constraint,10/20/2022 04:11:00 PM,10/21/2022 09:00:00 AM,10/22/2022 09:00:00 AM,126481,ETNG Pipeline Conditions for 10/21/2022,,ET
+12,Capacity Constraint,10/20/2022 09:43:00 AM,10/20/2022 09:43:00 AM,10/21/2022 09:00:00 AM,126449,ETNG Pipeline Conditions for 10/20/2022 - INTRADAY,,ET
+13,Capacity Constraint,10/19/2022 04:19:00 PM,10/20/2022 09:00:00 AM,10/21/2022 09:00:00 AM,126440,ETNG Pipeline Conditions for 10/20/2022,,ET
+14,Capacity Constraint,10/18/2022 02:55:00 PM,10/19/2022 09:00:00 AM,10/20/2022 09:00:00 AM,126388,ETNG Pipeline Conditions for 10/19/2022,,ET
+15,Capacity Constraint,10/17/2022 02:17:06 PM,10/18/2022 09:00:00 AM,10/19/2022 09:00:00 AM,126327,ETNG Pipeline Conditions for 10/18/2022,,ET
+16,Capacity Constraint,10/16/2022 03:07:31 PM,10/17/2022 09:00:00 AM,10/18/2022 09:00:00 AM,126316,ETNG Pipeline Conditions for 10/17/2022,,ET
+17,Capacity Constraint,10/15/2022 02:30:56 PM,10/16/2022 09:00:00 AM,10/17/2022 09:00:00 AM,126266,ETNG Pipeline Conditions for 10/16/2022,,ET
+18,Capacity Constraint,10/14/2022 02:37:00 PM,10/15/2022 09:00:00 AM,10/16/2022 09:00:00 AM,126231,ETNG Pipeline Conditions for 10/15/2022,,ET
+19,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126208,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,ET
+20,Capacity Constraint,10/13/2022 02:15:00 PM,10/14/2022 09:00:00 AM,10/15/2022 09:00:00 AM,126175,ETNG Pipeline Conditions for 10/14/2022,,ET
+21,Capacity Constraint,10/12/2022 02:51:55 PM,10/13/2022 09:00:00 AM,10/14/2022 09:00:00 AM,126142,ETNG Pipeline Conditions for 10/13/2022,,ET
+22,Capacity Constraint,10/11/2022 02:30:21 PM,10/12/2022 09:00:00 AM,10/13/2022 09:00:00 AM,126107,ETNG Pipeline Conditions for 10/12/2022,,ET
+23,Capacity Constraint,10/10/2022 03:26:28 PM,10/11/2022 09:00:00 AM,10/12/2022 09:00:00 AM,126054,ETNG Pipeline Conditions for 10/11/2022,,ET
+24,Capacity Constraint,10/09/2022 03:41:26 PM,10/10/2022 09:00:00 AM,10/11/2022 09:00:00 AM,126011,ETNG Pipeline Conditions for 10/10/2022,,ET
+25,Capacity Constraint,10/08/2022 03:22:52 PM,10/09/2022 09:00:00 AM,10/10/2022 09:00:00 AM,125978,ETNG Pipeline Conditions for 10/9/2022,,ET
+26,Capacity Constraint,10/07/2022 03:31:00 PM,10/08/2022 09:00:00 AM,10/09/2022 09:00:00 AM,125938,ETNG Pipeline Conditions for 10/8/2022,,ET
+27,Capacity Constraint,10/06/2022 02:30:56 PM,10/07/2022 09:00:00 AM,10/08/2022 09:00:00 AM,125887,ETNG Pipeline Conditions for 10/7/2022,,ET
+28,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125871,LINK System Maintenance the weekend of October 14th,,ET
+29,Capacity Constraint,10/05/2022 02:40:35 PM,10/06/2022 09:00:00 AM,10/07/2022 09:00:00 AM,125833,ETNG Pipeline Conditions for 10/6/2022,,ET
+30,Capacity Constraint,10/04/2022 03:11:08 PM,10/05/2022 09:00:00 AM,10/06/2022 09:00:00 AM,125810,ETNG Pipeline Conditions for 10/5/2022,,ET
+31,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125770,"Reminder - Application Maintenance on Wednesday October 5, 2022",,ET
+32,Capacity Constraint,10/03/2022 02:07:52 PM,10/04/2022 09:00:00 AM,10/05/2022 09:00:00 AM,125738,ETNG Pipeline Conditions for 10/4/2022,,ET
+33,Capacity Constraint,10/02/2022 03:29:20 PM,10/03/2022 09:00:00 AM,10/04/2022 09:00:00 AM,125718,ETNG Pipeline Conditions for 10/3/2022,,ET
+34,Capacity Constraint,10/01/2022 03:06:30 PM,10/02/2022 09:00:00 AM,10/03/2022 09:00:00 AM,125672,ETNG Pipeline Conditions for 10/2/2022,,ET
+35,Capacity Constraint,09/30/2022 03:27:00 PM,10/01/2022 09:00:00 AM,10/02/2022 09:00:00 AM,125646,ETNG Pipeline Conditions for 10/1/2022,,ET
+36,Capacity Constraint,09/29/2022 02:58:00 PM,09/30/2022 09:00:00 AM,10/01/2022 09:00:00 AM,125605,ETNG Pipeline Conditions for 9/30/2022,,ET
+37,Capacity Constraint,09/28/2022 03:00:25 PM,09/29/2022 09:00:00 AM,09/30/2022 09:00:00 AM,125565,ETNG Pipeline Conditions for 9/29/2022,,ET
+38,Capacity Constraint,09/27/2022 02:23:10 PM,09/28/2022 09:00:00 AM,09/29/2022 09:00:00 AM,125523,ETNG Pipeline Conditions for 9/28/2022,,ET
+39,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125498,"LINK Application Maintenance Postponed until October 5, 2022",,ET
+40,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125470,"Reminder about Application Maintenance on Wednesday September 28, 2022",,ET
+41,Capacity Constraint,09/26/2022 02:22:52 PM,09/27/2022 09:00:00 AM,09/28/2022 09:00:00 AM,125446,ETNG Pipeline Conditions for 9/27/2022,,ET
+42,Capacity Constraint,09/25/2022 02:41:27 PM,09/26/2022 09:00:00 AM,09/27/2022 09:00:00 AM,125418,ETNG Pipeline Conditions for 9/26/2022,,ET
+43,Capacity Constraint,09/24/2022 02:39:31 PM,09/25/2022 09:00:00 AM,09/26/2022 09:00:00 AM,125387,ETNG Pipeline Conditions for 9/25/2022,,ET
+44,Capacity Constraint,09/23/2022 03:04:00 PM,09/24/2022 09:00:00 AM,09/25/2022 09:00:00 AM,125377,ETNG Pipeline Conditions for 9/24/2022,,ET
+45,Capacity Constraint,09/22/2022 03:19:00 PM,09/23/2022 09:00:00 AM,09/24/2022 09:00:00 AM,125346,ETNG Pipeline Conditions for 9/23/2022,,ET
+46,Capacity Constraint,09/21/2022 02:42:00 PM,09/22/2022 09:00:00 AM,09/23/2022 09:00:00 AM,125294,ETNG Pipeline Conditions for 9/22/2022,,ET
+47,Capacity Constraint,09/20/2022 02:49:12 PM,09/21/2022 09:00:00 AM,09/22/2022 09:00:00 AM,125256,ETNG Pipeline Conditions for 9/21/2022,,ET
+48,Capacity Constraint,09/20/2022 07:37:07 AM,09/20/2022 09:00:00 AM,12/19/2022 07:37:07 AM,125242,Wartburg to Topside Detailed Investigations -- COMPLETE,,ET
+49,Capacity Constraint,09/19/2022 02:06:05 PM,09/20/2022 09:00:00 AM,09/21/2022 09:00:00 AM,125214,ETNG Pipeline Conditions for 9/20/2022,,ET
+50,Operational Flow Order,09/19/2022 07:56:17 AM,09/19/2022 09:00:00 AM,12/18/2022 07:56:17 AM,125212,ETNG Operational Flow Order -- LIFTED,,ET
+51,Capacity Constraint,09/18/2022 03:13:21 PM,09/19/2022 09:00:00 AM,09/20/2022 09:00:00 AM,125209,ETNG Pipeline Conditions for 9/19/2022,,ET
+52,Capacity Constraint,09/17/2022 03:29:17 PM,09/18/2022 09:00:00 AM,09/19/2022 09:00:00 AM,125181,ETNG Pipeline Conditions for 9/18/2022,,ET
+53,Capacity Constraint,09/16/2022 03:12:00 PM,09/17/2022 09:00:00 AM,09/18/2022 09:00:00 AM,125155,ETNG Pipeline Conditions for 9/17/2022,,ET
+54,Operational Flow Order,09/16/2022 07:25:00 AM,09/19/2022 09:00:00 AM,12/15/2022 09:00:00 AM,125127,ETNG Operational Flow Order - EFF 9AM 9/19,,ET
+55,Operational Flow Order,09/16/2022 07:24:30 AM,09/16/2022 09:00:00 AM,12/15/2022 09:00:00 AM,125126,ETNG Operational Flow Order -- LIFTED EFF 9AM 9/16,,ET
+56,Capacity Constraint,09/15/2022 02:10:21 PM,09/16/2022 09:00:00 AM,09/17/2022 09:00:00 AM,125105,ETNG Pipeline Conditions for 9/16/2022,,ET
+57,Capacity Constraint,09/14/2022 02:30:03 PM,09/15/2022 09:00:00 AM,09/16/2022 09:00:00 AM,125080,ETNG Pipeline Conditions for 9/15/2022,,ET
+58,Capacity Constraint,09/13/2022 02:35:28 PM,09/14/2022 09:00:00 AM,09/15/2022 09:00:00 AM,125044,ETNG Pipeline Conditions for 9/14/2022,,ET
+59,Capacity Constraint,09/12/2022 03:03:00 PM,09/13/2022 09:00:00 AM,09/14/2022 09:00:00 AM,124970,ETNG Pipeline Conditions for 9/13/2022,,ET
+60,Operational Flow Order,09/12/2022 08:20:00 AM,09/14/2022 09:00:00 AM,12/11/2022 09:00:00 AM,124956,ETNG Operational Flow Order - EFF 9AM 9/14,,ET
+61,Operational Flow Order,09/12/2022 08:19:30 AM,09/12/2022 09:00:00 AM,12/11/2022 09:00:00 AM,124955,ETNG Operational Flow Order -- LIFTED EFF 9AM 9/12,,ET
+62,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124936,"Changes to LINK System Maintenance for the week of September 12, 2022",,ET
+63,Capacity Constraint,09/11/2022 03:15:59 PM,09/12/2022 09:00:00 AM,09/13/2022 09:00:00 AM,124926,ETNG Pipeline Conditions for 9/12/2022,,ET
+64,Capacity Constraint,09/10/2022 02:53:35 PM,09/11/2022 09:00:00 AM,09/12/2022 09:00:00 AM,124887,ETNG Pipeline Conditions for 9/11/2022,,ET
+65,Capacity Constraint,09/09/2022 03:20:00 PM,09/10/2022 09:00:00 AM,09/11/2022 09:00:00 AM,124867,ETNG Pipeline Conditions for 9/10/2022,,ET
+66,Operational Flow Order,09/09/2022 06:54:26 AM,09/12/2022 09:00:00 AM,12/08/2022 06:54:26 AM,124828,ETNG Operational Flow Order - EFF 9AM 9/12,,ET
+67,Operational Flow Order,09/09/2022 06:53:34 AM,09/10/2022 09:00:00 AM,12/08/2022 06:53:34 AM,124827,ETNG Operational Flow Order -- LIFTED EFF 9AM 9/10,,ET
+68,Capacity Constraint,09/08/2022 02:29:12 PM,09/09/2022 09:00:00 AM,09/10/2022 09:00:00 AM,124804,ETNG Pipeline Conditions for 9/9/2022,,ET
+69,Capacity Constraint,09/07/2022 02:08:58 PM,09/08/2022 09:00:00 AM,09/09/2022 09:00:00 AM,124771,ETNG Pipeline Conditions for 9/8/2022,,ET
+70,Capacity Constraint,09/06/2022 02:34:40 PM,09/07/2022 09:00:00 AM,09/08/2022 09:00:00 AM,124736,ETNG Pipeline Conditions for 9/7/2022,,ET
+71,Operational Flow Order,09/06/2022 09:35:06 AM,09/06/2022 09:35:06 AM,12/05/2022 09:31:36 AM,124724,ETNG Operational Flow Order,,ET
+72,Operational Flow Order,09/06/2022 09:34:06 AM,09/06/2022 09:34:06 AM,12/05/2022 09:30:06 AM,124723,ETNG Operational Flow Order -- LIFTED,,ET
+73,Capacity Constraint,09/05/2022 02:59:39 PM,09/06/2022 09:00:00 AM,09/07/2022 09:00:00 AM,124703,ETNG Pipeline Conditions for 9/6/2022,,ET
+74,Capacity Constraint,09/04/2022 02:45:27 PM,09/05/2022 09:00:00 AM,09/06/2022 09:00:00 AM,124675,ETNG Pipeline Conditions for 9/5/2022,,ET
+75,Capacity Constraint,09/03/2022 02:55:16 PM,09/04/2022 09:00:00 AM,09/05/2022 09:00:00 AM,124649,ETNG Pipeline Conditions for 9/4/2022,,ET
+76,Capacity Constraint,09/02/2022 02:58:48 PM,09/03/2022 09:00:00 AM,09/04/2022 09:00:00 AM,124613,ETNG Pipeline Conditions for 9/3/2022,,ET
+77,Capacity Constraint,09/01/2022 02:15:54 PM,09/02/2022 09:00:00 AM,09/03/2022 09:00:00 AM,124580,ETNG Pipeline Conditions for 9/2/2022,,ET
+78,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124555,Application Maintenance on September 14,,ET
+79,Capacity Constraint,09/01/2022 07:31:24 AM,09/01/2022 09:00:00 AM,09/02/2022 09:00:00 AM,124544,ETNG Pipeline Conditions for 9/1/2022 -- CORRECTED,,ET
+80,Capacity Constraint,08/31/2022 02:45:16 PM,09/01/2022 09:00:00 AM,09/02/2022 09:00:00 AM,124518,ETNG Pipeline Conditions for 9/1/2022,,ET
+81,Capacity Constraint,08/30/2022 02:16:57 PM,08/31/2022 09:00:00 AM,09/01/2022 09:00:00 AM,124486,ETNG Pipeline Conditions for 8/31/2022,,ET
+82,Operational Flow Order,08/30/2022 06:56:30 AM,09/01/2022 09:00:00 AM,11/28/2022 09:00:00 AM,124476,ETNG Operational Flow Order - EFF 9/1/22,,ET
+83,Operational Flow Order,08/30/2022 06:56:00 AM,09/01/2022 09:00:00 AM,11/28/2022 09:00:00 AM,124475,ETNG Operational Flow Order -- LIFTED,,ET
+84,Capacity Constraint,08/29/2022 02:30:18 PM,08/30/2022 09:00:00 AM,08/31/2022 09:00:00 AM,124452,ETNG Pipeline Conditions for 8/30/2022,,ET
+85,Capacity Constraint,08/28/2022 03:23:16 PM,08/29/2022 09:00:00 AM,08/30/2022 09:00:00 AM,124415,ETNG Pipeline Conditions for 8/29/2022,,ET
+86,Capacity Constraint,08/27/2022 03:29:10 PM,08/28/2022 09:00:00 AM,08/29/2022 09:00:00 AM,124388,ETNG Pipeline Conditions for 8/28/2022,,ET
+87,Capacity Constraint,08/26/2022 03:00:00 PM,08/27/2022 09:00:00 AM,08/28/2022 09:00:00 AM,124345,ETNG Pipeline Conditions for 8/27/2022,,ET
+88,Capacity Constraint,08/25/2022 02:20:20 PM,08/26/2022 09:00:00 AM,08/27/2022 09:00:00 AM,124313,ETNG Pipeline Conditions for 8/26/2022,,ET
+89,Capacity Constraint,08/24/2022 02:27:51 PM,08/25/2022 09:00:00 AM,08/26/2022 09:00:00 AM,124272,ETNG Pipeline Conditions for 8/25/2022,,ET
+90,Capacity Constraint,08/23/2022 02:30:00 PM,08/24/2022 09:00:00 AM,08/25/2022 09:00:00 AM,124248,ETNG Pipeline Conditions for 8/24/2022,,ET
+91,Capacity Constraint,08/22/2022 02:38:43 PM,08/23/2022 09:00:00 AM,08/24/2022 09:00:00 AM,124210,ETNG Pipeline Conditions for 8/23/2022,,ET
+92,Capacity Constraint,08/21/2022 02:46:49 PM,08/22/2022 09:00:00 AM,08/23/2022 09:00:00 AM,124181,ETNG Pipeline Conditions for 8/22/2022,,ET
+93,Capacity Constraint,08/20/2022 03:05:02 PM,08/21/2022 09:00:00 AM,08/22/2022 09:00:00 AM,124154,ETNG Pipeline Conditions for 8/21/2022,,ET
+94,Capacity Constraint,08/19/2022 03:28:00 PM,08/20/2022 09:00:00 AM,08/21/2022 09:00:00 AM,124142,ETNG Pipeline Conditions for 8/20/2022,,ET
+95,Capacity Constraint,08/18/2022 02:24:25 PM,08/19/2022 09:00:00 AM,08/20/2022 09:00:00 AM,124094,ETNG Pipeline Conditions for 8/19/2022,,ET
+96,Operational Flow Order,08/18/2022 08:45:00 AM,08/18/2022 09:00:00 AM,11/16/2022 08:43:43 AM,124081,ETNG Operational Flow Order EFF 8/18/22,,ET
+97,Operational Flow Order,08/18/2022 08:40:25 AM,08/18/2022 09:00:00 AM,11/16/2022 08:40:25 AM,124080,ETNG OFO -- LIFTED,,ET
+98,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124060,LINK System Maintenance the weekend of September 16th,,ET
+99,Capacity Constraint,08/17/2022 02:35:09 PM,08/18/2022 09:00:00 AM,08/19/2022 09:00:00 AM,124032,ETNG Pipeline Conditions for 8/18/2022,,ET
+100,Capacity Constraint,08/16/2022 02:51:00 PM,08/17/2022 09:00:00 AM,08/18/2022 09:00:00 AM,123962,ETNG Pipeline Conditions for 8/17/2022,,ET
+101,Capacity Constraint,08/15/2022 02:33:08 PM,08/16/2022 09:00:00 AM,08/17/2022 09:00:00 AM,123932,ETNG Pipeline Conditions for 8/16/2022,,ET
+102,Capacity Constraint,08/14/2022 03:01:33 PM,08/15/2022 09:00:00 AM,08/16/2022 09:00:00 AM,123909,ETNG Pipeline Conditions for 8/15/2022,,ET
+103,Capacity Constraint,08/13/2022 03:00:59 PM,08/14/2022 09:00:00 AM,08/15/2022 09:00:00 AM,123882,ETNG Pipeline Conditions for 8/14/2022,,ET
+104,Capacity Constraint,08/12/2022 03:23:31 PM,08/13/2022 09:00:00 AM,08/14/2022 09:00:00 AM,123862,ETNG Pipeline Conditions for 8/13/2022,,ET
+105,Capacity Constraint,08/11/2022 02:59:07 PM,08/12/2022 09:00:00 AM,08/13/2022 09:00:00 AM,123816,ETNG Pipeline Conditions for 8/12/2022,,ET
+106,Capacity Constraint,08/10/2022 03:21:00 PM,08/11/2022 09:00:00 AM,08/12/2022 09:00:00 AM,123789,ETNG Pipeline Conditions for 8/11/2022,,ET
+107,Capacity Constraint,08/09/2022 03:20:00 PM,08/10/2022 09:00:00 AM,08/11/2022 09:00:00 AM,123743,ETNG Pipeline Conditions for 8/10/2022,,ET
+108,Capacity Constraint,08/08/2022 03:02:17 PM,08/09/2022 09:00:00 AM,08/10/2022 09:00:00 AM,123703,ETNG Pipeline Conditions for 8/9/2022,,ET
+109,Capacity Constraint,08/07/2022 03:11:03 PM,08/08/2022 09:00:00 AM,08/09/2022 09:00:00 AM,123683,ETNG Pipeline Conditions for 8/8/2022,,ET
+110,Capacity Constraint,08/06/2022 03:44:33 PM,08/07/2022 09:00:00 AM,08/08/2022 09:00:00 AM,123655,ETNG Pipeline Conditions for 8/7/2022,,ET
+111,Capacity Constraint,08/05/2022 03:12:00 PM,08/06/2022 09:00:00 AM,08/07/2022 09:00:00 AM,123619,ETNG Pipeline Conditions for 8/6/2022,,ET
+112,Capacity Constraint,08/04/2022 03:06:00 PM,08/05/2022 09:00:00 AM,08/06/2022 09:00:00 AM,123594,ETNG Pipeline Conditions for 8/5/2022,,ET
+113,Capacity Constraint,08/03/2022 04:01:00 PM,08/04/2022 09:00:00 AM,08/05/2022 09:00:00 AM,123564,ETNG Pipeline Conditions for 8/4/2022,,ET
+0,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126209,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,GB
+1,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125872,LINK System Maintenance the weekend of October 14th,,GB
+2,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125771,"Reminder - Application Maintenance on Wednesday October 5, 2022",,GB
+3,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125499,"LINK Application Maintenance Postponed until October 5, 2022",,GB
+4,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125471,"Reminder about Application Maintenance on Wednesday September 28, 2022",,GB
+5,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124937,"Changes to LINK System Maintenance for the week of September 12, 2022",,GB
+6,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124556,Application Maintenance on September 14,,GB
+7,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124061,LINK System Maintenance the weekend of September 16th,,GB
+0,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126210,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,GPL
+1,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125873,LINK System Maintenance the weekend of October 14th,,GPL
+2,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125772,"Reminder - Application Maintenance on Wednesday October 5, 2022",,GPL
+3,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125500,"LINK Application Maintenance Postponed until October 5, 2022",,GPL
+4,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125472,"Reminder about Application Maintenance on Wednesday September 28, 2022",,GPL
+5,Capacity Constraint,09/18/2022 03:05:49 PM,09/19/2022 09:00:00 AM,09/20/2022 09:00:00 AM,125189,GPL Pipeline Conditions for 9/19/2022,,GPL
+6,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124938,"Changes to LINK System Maintenance for the week of September 12, 2022",,GPL
+7,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124557,Application Maintenance on September 14,,GPL
+8,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124062,LINK System Maintenance the weekend of September 16th,,GPL
+0,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126212,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,MCGP
+1,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125875,LINK System Maintenance the weekend of October 14th,,MCGP
+2,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125774,"Reminder - Application Maintenance on Wednesday October 5, 2022",,MCGP
+3,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125502,"LINK Application Maintenance Postponed until October 5, 2022",,MCGP
+4,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125474,"Reminder about Application Maintenance on Wednesday September 28, 2022",,MCGP
+5,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124940,"Changes to LINK System Maintenance for the week of September 12, 2022",,MCGP
+6,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124559,Application Maintenance on September 14,,MCGP
+7,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124064,LINK System Maintenance the weekend of September 16th,,MCGP
+0,Capacity Constraint,10/31/2022 04:04:00 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126912,Moss Bluff Storage Conditions for 11/1/2022,,MB
+1,Capacity Constraint,10/30/2022 02:58:16 PM,10/31/2022 09:00:00 AM,11/01/2022 09:00:00 AM,126860,Moss Bluff Storage Conditions for 10/31/2022,,MB
+2,Capacity Constraint,10/29/2022 03:03:26 PM,10/30/2022 09:00:00 AM,10/31/2022 09:00:00 AM,126821,Moss Bluff Storage Conditions for 10/30/2022,,MB
+3,Capacity Constraint,10/28/2022 03:29:00 PM,10/29/2022 09:00:00 AM,10/30/2022 09:00:00 AM,126808,Moss Bluff Storage Conditions for 10/29/2022,,MB
+4,Capacity Constraint,10/27/2022 03:26:00 PM,10/28/2022 09:00:00 AM,10/29/2022 09:00:00 AM,126766,Moss Bluff Storage Conditions for 10/28/2022,,MB
+5,Capacity Constraint,10/26/2022 02:31:36 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126705,Moss Bluff Storage Conditions for 10/27/2022,,MB
+6,Capacity Constraint,10/25/2022 04:05:00 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126672,Moss Bluff Storage Conditions for 10/26/2022,,MB
+7,Capacity Constraint,10/24/2022 04:17:00 PM,10/25/2022 09:00:00 AM,10/26/2022 09:00:00 AM,126636,Moss Bluff Storage Conditions for 10/25/2022,,MB
+8,Capacity Constraint,10/23/2022 03:25:25 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126583,Moss Bluff Storage Conditions for 10/24/2022,,MB
+9,Capacity Constraint,10/22/2022 02:46:50 PM,10/23/2022 09:00:00 AM,10/24/2022 09:00:00 AM,126538,Moss Bluff Storage Conditions for 10/23/2022,,MB
+10,Capacity Constraint,10/21/2022 03:20:40 PM,10/22/2022 09:00:00 AM,10/23/2022 09:00:00 AM,126512,Moss Bluff Storage Conditions for 10/22/2022,,MB
+11,Capacity Constraint,10/20/2022 04:14:08 PM,10/21/2022 09:00:00 AM,10/22/2022 09:00:00 AM,126480,Moss Bluff Storage Conditions for 10/21/2022,,MB
+12,Capacity Constraint,10/19/2022 03:25:16 PM,10/20/2022 09:00:00 AM,10/21/2022 09:00:00 AM,126437,Moss Bluff Storage Conditions for 10/20/2022,,MB
+13,Capacity Constraint,10/18/2022 03:05:59 PM,10/19/2022 09:00:00 AM,10/20/2022 09:00:00 AM,126401,Moss Bluff Storage Conditions for 10/19/2022,,MB
+14,Capacity Constraint,10/17/2022 03:24:00 PM,10/18/2022 09:00:00 AM,10/19/2022 09:00:00 AM,126346,Moss Bluff Storage Conditions for 10/18/2022,,MB
+15,Capacity Constraint,10/16/2022 02:59:07 PM,10/17/2022 09:00:00 AM,10/18/2022 09:00:00 AM,126297,Moss Bluff Storage Conditions for 10/17/2022,,MB
+16,Capacity Constraint,10/15/2022 02:45:45 PM,10/16/2022 09:00:00 AM,10/17/2022 09:00:00 AM,126270,Moss Bluff Storage Conditions for 10/16/2022,,MB
+17,Capacity Constraint,10/14/2022 03:39:00 PM,10/15/2022 09:00:00 AM,10/16/2022 09:00:00 AM,126253,Moss Bluff Storage Conditions for 10/15/2022,,MB
+18,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126211,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,MB
+19,Capacity Constraint,10/13/2022 03:00:00 PM,10/14/2022 09:00:00 AM,10/15/2022 09:00:00 AM,126184,Moss Bluff Storage Conditions for 10/14/2022,,MB
+20,Capacity Constraint,10/12/2022 03:26:40 PM,10/13/2022 09:00:00 AM,10/14/2022 09:00:00 AM,126159,Moss Bluff Storage Conditions for 10/13/2022,,MB
+21,Capacity Constraint,10/11/2022 03:06:58 PM,10/12/2022 09:00:00 AM,10/13/2022 09:00:00 AM,126115,Moss Bluff Storage Conditions for 10/12/2022,,MB
+22,Capacity Constraint,10/10/2022 03:35:42 PM,10/11/2022 09:00:00 AM,10/12/2022 09:00:00 AM,126058,Moss Bluff Storage Conditions for 10/11/2022,,MB
+23,Capacity Constraint,10/09/2022 03:33:04 PM,10/10/2022 09:00:00 AM,10/11/2022 09:00:00 AM,126003,Moss Bluff Storage Conditions for 10/10/2022,,MB
+24,Capacity Constraint,10/09/2022 01:10:00 PM,10/11/2022 09:00:00 AM,01/07/2023 09:00:00 AM,125984,Moss Bluff Operational Advisory,,MB
+25,Capacity Constraint,10/08/2022 03:15:25 PM,10/09/2022 09:00:00 AM,10/10/2022 09:00:00 AM,125974,Moss Bluff Storage Conditions for 10/9/2022,,MB
+26,Capacity Constraint,10/07/2022 06:13:39 PM,10/07/2022 06:13:39 PM,10/08/2022 09:00:00 AM,125950,Moss Bluff Storage Conditions for 10/7/2022 -- INTRADAY,,MB
+27,Capacity Constraint,10/07/2022 03:45:38 PM,10/08/2022 09:00:00 AM,10/09/2022 09:00:00 AM,125943,Moss Bluff Storage Conditions for 10/8/2022,,MB
+28,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125874,LINK System Maintenance the weekend of October 14th,,MB
+29,Capacity Constraint,10/04/2022 03:14:52 PM,10/05/2022 09:00:00 AM,10/06/2022 09:00:00 AM,125811,Moss Bluff Storage Conditions for 10/5/2022,,MB
+30,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125773,"Reminder - Application Maintenance on Wednesday October 5, 2022",,MB
+31,Capacity Constraint,10/03/2022 03:17:17 PM,10/04/2022 09:00:00 AM,10/05/2022 09:00:00 AM,125760,Moss Bluff Storage Conditions for 10/4/2022,,MB
+32,Capacity Constraint,10/02/2022 03:02:13 PM,10/03/2022 09:00:00 AM,10/04/2022 09:00:00 AM,125702,Moss Bluff Storage Conditions for 10/3/2022,,MB
+33,Capacity Constraint,10/01/2022 03:25:12 PM,10/02/2022 09:00:00 AM,10/03/2022 09:00:00 AM,125690,Moss Bluff Storage Conditions for 10/2/2022,,MB
+34,Capacity Constraint,09/30/2022 03:49:37 PM,10/01/2022 09:00:00 AM,10/02/2022 09:00:00 AM,125657,Moss Bluff Storage Conditions for 10/1/2022,,MB
+35,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125501,"LINK Application Maintenance Postponed until October 5, 2022",,MB
+36,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125473,"Reminder about Application Maintenance on Wednesday September 28, 2022",,MB
+37,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124939,"Changes to LINK System Maintenance for the week of September 12, 2022",,MB
+38,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124558,Application Maintenance on September 14,,MB
+39,Computer System Status,08/23/2022 08:25:51 AM,08/23/2022 08:25:51 AM,11/21/2022 08:25:51 AM,124232,Implementation of Texas Railroad Commission Curtailment Rule,,MB
+40,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124063,LINK System Maintenance the weekend of September 16th,,MB
+0,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126213,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,MNCA
+1,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125876,LINK System Maintenance the weekend of October 14th,,MNCA
+2,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125775,"Reminder - Application Maintenance on Wednesday October 5, 2022",,MNCA
+3,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125503,"LINK Application Maintenance Postponed until October 5, 2022",,MNCA
+4,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125475,"Reminder about Application Maintenance on Wednesday September 28, 2022",,MNCA
+5,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124941,"Changes to LINK System Maintenance for the week of September 12, 2022",,MNCA
+6,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124560,Application Maintenance on September 14,,MNCA
+7,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124065,LINK System Maintenance the weekend of September 16th,,MNCA
+0,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126214,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,MNUS
+1,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125877,LINK System Maintenance the weekend of October 14th,,MNUS
+2,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125776,"Reminder - Application Maintenance on Wednesday October 5, 2022",,MNUS
+3,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125504,"LINK Application Maintenance Postponed until October 5, 2022",,MNUS
+4,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125476,"Reminder about Application Maintenance on Wednesday September 28, 2022",,MNUS
+5,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124942,"Changes to LINK System Maintenance for the week of September 12, 2022",,MNUS
+6,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124561,Application Maintenance on September 14,,MNUS
+7,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124066,LINK System Maintenance the weekend of September 16th,,MNUS
+0,Maintenance,10/24/2022 01:14:51 PM,10/24/2022 01:14:51 PM,01/22/2023 01:14:51 PM,126602,Generator Maintenance at Ship Shoal 207 - Revised Dates,,NPC
+1,Maintenance,10/19/2022 08:45:01 AM,10/19/2022 08:45:01 AM,01/17/2023 08:45:01 AM,126411,Generator Maintenance at Ship Shoal 207,,NPC
+2,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126215,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,NPC
+3,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125878,LINK System Maintenance the weekend of October 14th,,NPC
+4,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125777,"Reminder - Application Maintenance on Wednesday October 5, 2022",,NPC
+5,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125505,"LINK Application Maintenance Postponed until October 5, 2022",,NPC
+6,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125477,"Reminder about Application Maintenance on Wednesday September 28, 2022",,NPC
+7,PTR Percentage,09/20/2022 08:41:23 AM,09/20/2022 08:41:23 AM,12/19/2022 08:41:23 AM,125244,Nautilus Pipeline - REVISED September 2022 PTR Percentages,,NPC
+8,Capacity Constraint,09/12/2022 02:58:00 PM,09/13/2022 09:00:00 AM,09/14/2022 09:00:00 AM,124969,Nautilus Pipeline Conditions for 9/13/2022,,NPC
+9,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124943,"Changes to LINK System Maintenance for the week of September 12, 2022",,NPC
+10,Capacity Constraint,09/11/2022 03:08:46 PM,09/12/2022 09:00:00 AM,09/13/2022 09:00:00 AM,124923,Nautilus Pipeline Conditions for 9/12/2022,,NPC
+11,Capacity Constraint,09/10/2022 01:50:34 PM,09/11/2022 09:00:00 AM,09/12/2022 09:00:00 AM,124876,Nautilus Pipeline Conditions for 9/11/2022,,NPC
+12,Capacity Constraint,09/09/2022 03:24:00 PM,09/10/2022 09:00:00 AM,09/11/2022 09:00:00 AM,124869,Nautilus Pipeline Conditions for 9/10/2022,,NPC
+13,Capacity Constraint,09/08/2022 02:25:34 PM,09/09/2022 09:00:00 AM,09/10/2022 09:00:00 AM,124801,Nautilus Pipeline Conditions for 9/9/2022,,NPC
+14,Capacity Constraint,09/07/2022 02:06:00 PM,09/08/2022 09:00:00 AM,09/09/2022 09:00:00 AM,124762,Nautilus Pipeline Conditions for 9/8/2022,,NPC
+15,Capacity Constraint,09/06/2022 02:24:52 PM,09/07/2022 09:00:00 AM,09/08/2022 09:00:00 AM,124733,NPC Pipeline Conditions for 9/7/2022,,NPC
+16,Capacity Constraint,09/05/2022 03:02:20 PM,09/06/2022 09:00:00 AM,09/07/2022 09:00:00 AM,124705,NPC Pipeline Conditions for 9/6/2022,,NPC
+17,Capacity Constraint,09/04/2022 02:48:34 PM,09/05/2022 09:00:00 AM,09/06/2022 09:00:00 AM,124676,NPC Pipeline Conditions for 9/5/2022,,NPC
+18,Capacity Constraint,09/03/2022 02:58:56 PM,09/04/2022 09:00:00 AM,09/05/2022 02:58:56 PM,124651,NPC Pipeline Conditions for 9/4/2022,,NPC
+19,Capacity Constraint,09/02/2022 04:07:49 PM,09/03/2022 09:00:00 AM,09/04/2022 09:00:00 AM,124636,NPC Pipeline Conditions for 9/3/2022,,NPC
+20,Capacity Constraint,09/02/2022 04:04:59 PM,09/02/2022 04:04:59 PM,09/03/2022 09:00:00 AM,124634,NPC Pipeline Conditions for 9/2/2022 -- INTRADAY,,NPC
+21,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124562,Application Maintenance on September 14,,NPC
+22,PTR Percentage,08/25/2022 01:54:05 PM,08/25/2022 01:54:05 PM,11/23/2022 01:54:05 PM,124307,Nautilus Pipeline - REVISED August 2022 PTR Percentages,,NPC
+23,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124067,LINK System Maintenance the weekend of September 16th,,NPC
+0,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126216,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,NXCA
+1,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125879,LINK System Maintenance the weekend of October 14th,,NXCA
+2,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125778,"Reminder - Application Maintenance on Wednesday October 5, 2022",,NXCA
+3,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125506,"LINK Application Maintenance Postponed until October 5, 2022",,NXCA
+4,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125478,"Reminder about Application Maintenance on Wednesday September 28, 2022",,NXCA
+5,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124944,"Changes to LINK System Maintenance for the week of September 12, 2022",,NXCA
+6,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124563,Application Maintenance on September 14,,NXCA
+7,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124068,LINK System Maintenance the weekend of September 16th,,NXCA
+0,Capacity Constraint,10/31/2022 03:46:00 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126905,NEXUS Pipeline Conditions for 11/1/2022,,NXUS
+1,Capacity Constraint,10/30/2022 02:30:00 PM,10/31/2022 09:00:00 AM,11/01/2022 09:00:00 AM,126843,NEXUS Pipeline Conditions for 10/31/2022,,NXUS
+2,Capacity Constraint,10/29/2022 02:30:00 PM,10/30/2022 09:00:00 AM,10/31/2022 09:00:00 AM,126813,NEXUS Pipeline Conditions for 10/30/2022,,NXUS
+3,Capacity Constraint,10/28/2022 02:30:00 PM,10/29/2022 09:00:00 AM,10/30/2022 09:00:00 AM,126775,NEXUS Pipeline Conditions for 10/29/2022,,NXUS
+4,Capacity Constraint,10/27/2022 03:03:00 PM,10/28/2022 09:00:00 AM,10/29/2022 09:00:00 AM,126752,NEXUS Pipeline Conditions for 10/28/2022,,NXUS
+5,Capacity Constraint,10/26/2022 02:21:25 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126700,NEXUS Pipeline Conditions for 10/27/2022,,NXUS
+6,Capacity Constraint,10/25/2022 03:30:00 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126667,NEXUS Pipeline Conditions for 10/26/2022,,NXUS
+7,Capacity Constraint,10/24/2022 02:58:05 PM,10/25/2022 09:00:00 AM,10/26/2022 09:00:00 AM,126614,NEXUS Pipeline Conditions for 10/25/2022,,NXUS
+8,Capacity Constraint,10/23/2022 05:15:40 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126594,NEXUS Pipeline Conditions for 10/24/2022,,NXUS
+9,Force Majeure,10/20/2022 02:26:00 PM,10/28/2022 09:00:00 AM,01/18/2023 02:26:00 PM,126455,NEXUS Force Majeure - TE Line 73 Valve Section 2 Unplanned Outage Notification,,NXUS
+10,Capacity Constraint,10/20/2022 02:25:00 PM,10/28/2022 09:00:00 AM,11/14/2022 09:00:00 AM,126452,NEXUS - TE Line 73 Valve Section 2 Unplanned Outage,,NXUS
+11,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126217,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,NXUS
+12,Capacity Constraint,10/10/2022 01:34:51 PM,10/11/2022 09:00:00 AM,10/12/2022 09:00:00 AM,126032,Nexus Pipeline Conditions for 10/11/2022,,NXUS
+13,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125880,LINK System Maintenance the weekend of October 14th,,NXUS
+14,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125779,"Reminder - Application Maintenance on Wednesday October 5, 2022",,NXUS
+15,Force Majeure,10/01/2022 07:14:29 AM,10/01/2022 07:14:29 AM,12/30/2022 07:14:29 AM,125663,NEXUS - TE Line 73 Valve Section 1A Unplanned Outage -- COMPLETE,,NXUS
+16,Capacity Constraint,09/30/2022 08:35:50 AM,09/30/2022 08:35:50 AM,12/29/2022 08:35:50 AM,125623,NEXUS - TE Line 73 Valve Section 1A Unplanned Outage -- UPDATE,,NXUS
+17,Capacity Constraint,09/29/2022 02:55:00 PM,09/30/2022 09:00:00 AM,10/01/2022 09:00:00 AM,125603,NEXUS Pipeline Conditions for 9/30/2022,,NXUS
+18,Capacity Constraint,09/28/2022 07:10:00 PM,09/28/2022 07:10:00 PM,12/27/2022 07:10:00 PM,125587,NEXUS - TE Line 73 Valve Section 1A Unplanned Outage -- UPDATE,,NXUS
+19,Capacity Constraint,09/28/2022 02:11:29 PM,09/29/2022 09:00:00 AM,09/30/2022 09:00:00 AM,125560,NEXUS Pipeline Conditions for 9/29/2022,,NXUS
+20,Capacity Constraint,09/27/2022 02:22:55 PM,09/28/2022 09:00:00 AM,09/29/2022 09:00:00 AM,125524,NEXUS Pipeline Conditions for 9/28/2022,,NXUS
+21,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125507,"LINK Application Maintenance Postponed until October 5, 2022",,NXUS
+22,Capacity Constraint,09/27/2022 07:56:12 AM,09/27/2022 07:56:12 AM,12/26/2022 07:56:12 AM,125489,NEXUS - TE Line 73 Valve Section 1A Unplanned Outage -- UPDATE,,NXUS
+23,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125479,"Reminder about Application Maintenance on Wednesday September 28, 2022",,NXUS
+24,Capacity Constraint,09/26/2022 02:20:37 PM,09/27/2022 09:00:00 AM,09/28/2022 09:00:00 AM,125444,NEXUS Pipeline Conditions for 9/27/2022,,NXUS
+25,Capacity Constraint,09/26/2022 08:15:00 AM,09/26/2022 08:15:00 AM,12/25/2022 08:15:00 AM,125436,NEXUS - TE Line 73 Valve Section 1A Unplanned Outage -- UPDATE,,NXUS
+26,Capacity Constraint,09/25/2022 02:32:27 PM,09/26/2022 09:00:00 AM,09/27/2022 09:00:00 AM,125413,NEXUS Pipeline Conditions for 9/26/2022,,NXUS
+27,Capacity Constraint,09/24/2022 02:36:25 PM,09/25/2022 09:00:00 AM,09/26/2022 09:00:00 AM,125385,NEXUS Pipeline Conditions for 9/25/2022,,NXUS
+28,Capacity Constraint,09/23/2022 02:48:00 PM,09/24/2022 09:00:00 AM,09/25/2022 09:00:00 AM,125355,NEXUS Pipeline Conditions for 9/24/2022,,NXUS
+29,Capacity Constraint,09/22/2022 02:47:00 PM,09/23/2022 09:00:00 AM,09/24/2022 09:00:00 AM,125325,NEXUS Pipeline Conditions for 9/23/2022,,NXUS
+30,Capacity Constraint,09/21/2022 06:34:18 PM,09/21/2022 06:34:18 PM,12/20/2022 06:34:18 PM,125314,NEXUS - TE Line 73 Valve Section 1A Unplanned Outage -- UPDATE,,NXUS
+31,Capacity Constraint,09/21/2022 02:12:53 PM,09/22/2022 09:00:00 AM,09/23/2022 09:00:00 AM,125289,NEXUS Pipeline Conditions for 9/22/2022,,NXUS
+32,Capacity Constraint,09/20/2022 06:22:04 PM,09/21/2022 09:00:00 AM,09/22/2022 09:00:00 AM,125280,NEXUS Pipeline Conditions for 9/21/2022 -- INTRADAY,,NXUS
+33,Capacity Constraint,09/20/2022 06:17:44 PM,09/20/2022 06:17:44 PM,09/21/2022 09:00:00 AM,125279,NEXUS Pipeline Conditions for 9/20/2022 -- INTRADAY,,NXUS
+34,Force Majeure,09/20/2022 05:50:04 PM,09/20/2022 05:50:04 PM,12/19/2022 05:49:04 PM,125277,NEXUS Force Majeure - TE Line 73 Valve Section 1A Unplanned Outage Noficiation,,NXUS
+35,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124945,"Changes to LINK System Maintenance for the week of September 12, 2022",,NXUS
+36,Capacity Constraint,09/07/2022 01:15:00 PM,09/07/2022 01:15:00 PM,12/06/2022 01:15:00 PM,124761,NEXUS Update - DTE Unplanned Maintenance -- COMPLETE,,NXUS
+37,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124564,Application Maintenance on September 14,,NXUS
+38,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124069,LINK System Maintenance the weekend of September 16th,,NXUS
+39,Planned Service Outage,08/11/2022 10:16:00 AM,08/11/2022 10:16:00 AM,11/09/2022 10:16:00 AM,123796,NEXUS Outage Schedule -- UPDATE,,NXUS
+40,Capacity Constraint,08/11/2022 10:02:00 AM,08/11/2022 10:02:00 AM,11/09/2022 10:02:00 AM,123795,NEXUS Outage Schedule -- UPDATE,,NXUS
+0,Capacity Constraint,10/31/2022 03:58:00 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126910,SESH Pipeline Conditions for 11/1/2022,,SESH
+1,Capacity Constraint,10/30/2022 02:59:53 PM,10/31/2022 09:00:00 AM,11/01/2022 09:00:00 AM,126861,SESH Pipeline Conditions for 10/31/2022,,SESH
+2,Capacity Constraint,10/29/2022 03:09:59 PM,10/30/2022 09:00:00 AM,10/31/2022 09:00:00 AM,126838,SESH Pipeline Conditions for 10/30/2022,,SESH
+3,Capacity Constraint,10/28/2022 03:07:00 PM,10/29/2022 09:00:00 AM,10/30/2022 09:00:00 AM,126799,SESH Pipeline Conditions for 10/29/2022,,SESH
+4,Capacity Constraint,10/27/2022 02:47:00 PM,10/28/2022 09:00:00 AM,10/29/2022 09:00:00 AM,126751,SESH Pipeline Conditions for 10/28/2022,,SESH
+5,Capacity Constraint,10/26/2022 02:40:00 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126711,SESH Pipeline Conditions for 10/27/2022,,SESH
+6,Capacity Constraint,10/25/2022 03:41:34 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126668,SESH Pipeline Conditions for 10/26/2022,,SESH
+7,Capacity Constraint,10/24/2022 03:01:41 PM,10/25/2022 09:00:00 AM,10/26/2022 09:00:00 AM,126615,SESH Pipeline Conditions for 10/25/2022,,SESH
+8,Capacity Constraint,10/23/2022 03:33:04 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126587,SESH Pipeline Conditions for 10/24/2022,,SESH
+9,Capacity Constraint,10/22/2022 02:24:53 PM,10/23/2022 09:00:00 AM,10/24/2022 09:00:00 AM,126536,SESH Pipeline Conditions for 10/23/2022,,SESH
+10,Capacity Constraint,10/21/2022 03:34:00 PM,10/22/2022 09:00:00 AM,10/23/2022 09:00:00 AM,126518,SESH Pipeline Conditions for 10/22/2022,,SESH
+11,Capacity Constraint,10/20/2022 04:07:00 PM,10/21/2022 09:00:00 AM,10/22/2022 09:00:00 AM,126479,SESH Pipeline Conditions for 10/21/2022,,SESH
+12,Capacity Constraint,10/19/2022 04:16:00 PM,10/20/2022 09:00:00 AM,10/21/2022 09:00:00 AM,126438,SESH Pipeline Conditions for 10/20/2022,,SESH
+13,Capacity Constraint,10/18/2022 02:53:23 PM,10/19/2022 09:00:00 AM,10/20/2022 09:00:00 AM,126387,SESH Pipeline Conditions for 10/19/2022,,SESH
+14,Capacity Constraint,10/17/2022 02:20:28 PM,10/18/2022 09:00:00 AM,10/19/2022 09:00:00 AM,126328,SESH Pipeline Conditions for 10/18/2022,,SESH
+15,Capacity Constraint,10/16/2022 03:06:14 PM,10/17/2022 09:00:00 AM,10/18/2022 09:00:00 AM,126302,SESH Pipeline Conditions for 10/17/2022,,SESH
+16,Capacity Constraint,10/15/2022 02:29:14 PM,10/16/2022 09:00:00 AM,10/17/2022 09:00:00 AM,126265,SESH Pipeline Conditions for 10/16/2022,,SESH
+17,Capacity Constraint,10/14/2022 02:33:00 PM,10/15/2022 09:00:00 AM,10/16/2022 09:00:00 AM,126228,SESH Pipeline Conditions for 10/15/2022,,SESH
+18,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126218,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,SESH
+19,Capacity Constraint,10/13/2022 02:08:08 PM,10/14/2022 09:00:00 AM,10/15/2022 09:00:00 AM,126174,SESH Pipeline Conditions for 10/14/2022,,SESH
+20,Capacity Constraint,10/12/2022 02:48:01 PM,10/13/2022 09:00:00 AM,10/14/2022 09:00:00 AM,126140,SESH Pipeline Conditions for 10/13/2022,,SESH
+21,Capacity Constraint,10/11/2022 02:36:16 PM,10/12/2022 09:00:00 AM,10/13/2022 09:00:00 AM,126110,SESH Pipeline Conditions for 10/12/2022,,SESH
+22,Capacity Constraint,10/10/2022 03:28:20 PM,10/11/2022 09:00:00 AM,10/12/2022 09:00:00 AM,126055,SESH Pipeline Conditions for 10/11/2022,,SESH
+23,Capacity Constraint,10/09/2022 03:39:03 PM,10/10/2022 09:00:00 AM,10/11/2022 09:00:00 AM,126010,SESH Pipeline Conditions for 10/10/2022,,SESH
+24,Capacity Constraint,10/08/2022 03:20:20 PM,10/09/2022 09:00:00 AM,10/10/2022 09:00:00 AM,125977,SESH Pipeline Conditions for 10/9/2022,,SESH
+25,Capacity Constraint,10/07/2022 03:00:00 PM,10/08/2022 09:00:00 AM,10/09/2022 09:00:00 AM,125924,SESH Pipeline Conditions for 10/8/2022,,SESH
+26,Capacity Constraint,10/06/2022 03:07:52 PM,10/07/2022 09:00:00 AM,10/08/2022 09:00:00 AM,125903,SESH Pipeline Conditions for 10/7/2022,,SESH
+27,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125881,LINK System Maintenance the weekend of October 14th,,SESH
+28,Capacity Constraint,10/05/2022 03:45:00 PM,10/06/2022 09:00:00 AM,10/07/2022 09:00:00 AM,125850,SESH Pipeline Conditions for 10/6/2022,,SESH
+29,Capacity Constraint,10/04/2022 03:16:00 PM,10/05/2022 09:00:00 AM,10/06/2022 09:00:00 AM,125812,SESH Pipeline Conditions for 10/5/2022,,SESH
+30,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125780,"Reminder - Application Maintenance on Wednesday October 5, 2022",,SESH
+31,Capacity Constraint,10/03/2022 02:34:00 PM,10/04/2022 09:00:00 AM,10/05/2022 09:00:00 AM,125741,SESH Pipeline Conditions for 10/4/2022,,SESH
+32,Capacity Constraint,10/02/2022 03:31:13 PM,10/03/2022 09:00:00 AM,10/04/2022 09:00:00 AM,125719,SESH Pipeline Conditions for 10/3/2022,,SESH
+33,Capacity Constraint,10/01/2022 03:08:22 PM,10/02/2022 09:00:00 AM,10/03/2022 09:00:00 AM,125684,SESH Pipeline Conditions for 10/2/2022,,SESH
+34,Capacity Constraint,09/30/2022 03:30:00 PM,10/01/2022 09:00:00 AM,10/02/2022 09:00:00 AM,125647,SESH Pipeline Conditions for 10/1/2022,,SESH
+35,Capacity Constraint,09/29/2022 02:52:00 PM,09/30/2022 09:00:00 AM,10/01/2022 09:00:00 AM,125601,SESH Pipeline Conditions for 9/30/2022,,SESH
+36,Capacity Constraint,09/28/2022 03:04:13 PM,09/29/2022 09:00:00 AM,09/30/2022 09:00:00 AM,125566,SESH Pipeline Conditions for 9/29/2022,,SESH
+37,Capacity Constraint,09/28/2022 03:04:13 PM,09/29/2022 09:00:00 AM,09/30/2022 09:00:00 AM,125567,SESH Pipeline Conditions for 9/29/2022,,SESH
+38,Capacity Constraint,09/27/2022 02:19:35 PM,09/28/2022 09:00:00 AM,09/29/2022 09:00:00 AM,125521,SESH Pipeline Conditions for 9/28/2022,,SESH
+39,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125508,"LINK Application Maintenance Postponed until October 5, 2022",,SESH
+40,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125480,"Reminder about Application Maintenance on Wednesday September 28, 2022",,SESH
+41,Capacity Constraint,09/26/2022 02:38:00 PM,09/27/2022 09:00:00 AM,09/28/2022 09:00:00 AM,125448,SESH Pipeline Conditions for 9/27/2022,,SESH
+42,Capacity Constraint,09/25/2022 02:34:01 PM,09/26/2022 09:00:00 AM,09/27/2022 09:00:00 AM,125414,SESH Pipeline Conditions for 9/26/2022,,SESH
+43,Capacity Constraint,09/24/2022 02:37:54 PM,09/25/2022 09:00:00 AM,09/26/2022 09:00:00 AM,125386,SESH Pipeline Conditions for 9/25/2022,,SESH
+44,Capacity Constraint,09/23/2022 02:59:00 PM,09/24/2022 09:00:00 AM,09/25/2022 09:00:00 AM,125361,SESH Pipeline Conditions for 9/24/2022,,SESH
+45,Capacity Constraint,09/22/2022 03:12:00 PM,09/23/2022 09:00:00 AM,09/24/2022 09:00:00 AM,125345,SESH Pipeline Conditions for 9/23/2022,,SESH
+46,Capacity Constraint,09/21/2022 02:38:00 PM,09/22/2022 09:00:00 AM,09/23/2022 09:00:00 AM,125293,SESH Pipeline Conditions for 9/22/2022,,SESH
+47,Capacity Constraint,09/20/2022 02:37:00 PM,09/21/2022 09:00:00 AM,09/22/2022 09:00:00 AM,125253,SESH Pipeline Conditions for 9/21/2022,,SESH
+48,Capacity Constraint,09/19/2022 02:07:56 PM,09/20/2022 09:00:00 AM,09/21/2022 09:00:00 AM,125222,SESH Pipeline Conditions for 9/20/2022,,SESH
+49,Capacity Constraint,09/18/2022 03:10:37 PM,09/19/2022 09:00:00 AM,09/20/2022 09:00:00 AM,125208,SESH Pipeline Conditions for 9/19/2022,,SESH
+50,Capacity Constraint,09/17/2022 03:27:33 PM,09/18/2022 09:00:00 AM,09/19/2022 09:00:00 AM,125180,SESH Pipeline Conditions for 9/18/2022,,SESH
+51,Capacity Constraint,09/16/2022 02:21:17 PM,09/17/2022 09:00:00 AM,09/18/2022 09:00:00 AM,125134,SESH Pipeline Conditions for 9/17/2022,,SESH
+52,Capacity Constraint,09/15/2022 02:08:40 PM,09/16/2022 09:00:00 AM,09/17/2022 09:00:00 AM,125104,SESH Pipeline Conditions for 9/16/2022,,SESH
+53,Capacity Constraint,09/14/2022 02:25:34 PM,09/15/2022 09:00:00 AM,09/16/2022 09:00:00 AM,125079,SESH Pipeline Conditions for 9/15/2022,,SESH
+54,Capacity Constraint,09/13/2022 02:29:54 PM,09/14/2022 09:00:00 AM,09/15/2022 09:00:00 AM,125043,SESH Pipeline Conditions for 9/14/2022,,SESH
+55,Capacity Constraint,09/13/2022 11:34:24 AM,09/13/2022 11:34:24 AM,09/14/2022 09:00:00 AM,125033,SESH Pipeline Conditions for 9/13/2022 -- INTRADAY,,SESH
+56,Capacity Constraint,09/12/2022 02:55:00 PM,09/13/2022 09:00:00 AM,09/14/2022 09:00:00 AM,124968,SESH Pipeline Conditions for 9/13/2022,,SESH
+57,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124946,"Changes to LINK System Maintenance for the week of September 12, 2022",,SESH
+58,Capacity Constraint,09/11/2022 03:12:45 PM,09/12/2022 09:00:00 AM,09/13/2022 09:00:00 AM,124925,SESH Pipeline Conditions for 9/12/2022,,SESH
+59,Capacity Constraint,09/10/2022 02:49:04 PM,09/11/2022 09:00:00 AM,09/12/2022 09:00:00 AM,124886,SESH Pipeline Conditions for 9/11/2022,,SESH
+60,Capacity Constraint,09/09/2022 02:31:22 PM,09/10/2022 09:00:00 AM,09/11/2022 09:00:00 AM,124837,SESH Pipeline Conditions for 9/10/2022,,SESH
+61,Capacity Constraint,09/08/2022 02:45:43 PM,09/09/2022 09:00:00 AM,09/10/2022 09:00:00 AM,124807,SESH Pipeline Conditions for 9/9/2022,,SESH
+62,Capacity Constraint,09/07/2022 03:07:00 PM,09/08/2022 09:00:00 AM,09/09/2022 09:00:00 AM,124785,SESH Pipeline Conditions for 9/8/2022,,SESH
+63,Capacity Constraint,09/06/2022 02:38:33 PM,09/07/2022 09:00:00 AM,09/08/2022 09:00:00 AM,124739,SESH Pipeline Conditions for 9/7/2022,,SESH
+64,Capacity Constraint,09/05/2022 03:01:01 PM,09/06/2022 09:00:00 AM,09/07/2022 09:00:00 AM,124704,SESH Pipeline Conditions for 9/6/2022,,SESH
+65,Capacity Constraint,09/04/2022 02:43:43 PM,09/05/2022 09:00:00 AM,09/06/2022 09:00:00 AM,124674,SESH Pipeline Conditions for 9/5/2022,,SESH
+66,Capacity Constraint,09/03/2022 02:56:43 PM,09/04/2022 09:00:00 AM,09/05/2022 02:56:43 PM,124650,SESH Pipeline Conditions for 9/4/2022,,SESH
+67,Capacity Constraint,09/02/2022 02:57:08 PM,09/03/2022 09:00:00 AM,09/04/2022 09:00:00 AM,124612,SESH Pipeline Conditions for 9/3/2022,,SESH
+68,Capacity Constraint,09/01/2022 02:17:52 PM,09/02/2022 09:00:00 AM,09/03/2022 09:00:00 AM,124582,SESH Pipeline Conditions for 9/2/2022,,SESH
+69,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124565,Application Maintenance on September 14,,SESH
+70,Capacity Constraint,08/31/2022 02:48:14 PM,09/01/2022 09:00:00 AM,09/02/2022 09:00:00 AM,124519,SESH Pipeline Conditions for 9/1/2022,,SESH
+71,Capacity Constraint,08/30/2022 02:18:29 PM,08/31/2022 09:00:00 AM,09/01/2022 09:00:00 AM,124487,SESH Pipeline Conditions for 8/31/2022,,SESH
+72,Capacity Constraint,08/29/2022 02:28:43 PM,08/30/2022 09:00:00 AM,08/31/2022 09:00:00 AM,124451,SESH Pipeline Conditions for 8/30/2022,,SESH
+73,Capacity Constraint,08/28/2022 03:21:11 PM,08/29/2022 09:00:00 AM,08/30/2022 09:00:00 AM,124410,SESH Pipeline Conditions for 8/29/2022,,SESH
+74,Capacity Constraint,08/27/2022 03:26:03 PM,08/28/2022 09:00:00 AM,08/29/2022 09:00:00 AM,124387,SESH Pipeline Conditions for 8/28/2022,,SESH
+75,Capacity Constraint,08/26/2022 03:04:00 PM,08/27/2022 09:00:00 AM,08/28/2022 09:00:00 AM,124359,SESH Pipeline Conditions for 8/27/2022,,SESH
+76,Capacity Constraint,08/25/2022 02:40:57 PM,08/26/2022 09:00:00 AM,08/27/2022 09:00:00 AM,124318,SESH Pipeline Conditions for 8/26/2022,,SESH
+77,Capacity Constraint,08/24/2022 02:33:06 PM,08/25/2022 09:00:00 AM,08/26/2022 09:00:00 AM,124275,SESH Pipeline Conditions for 8/25/2022,,SESH
+78,Capacity Constraint,08/23/2022 02:30:21 PM,08/24/2022 09:00:00 AM,08/25/2022 09:00:00 AM,124247,SESH Pipeline Conditions for 8/24/2022,,SESH
+79,Capacity Constraint,08/22/2022 02:51:00 PM,08/23/2022 09:00:00 AM,08/24/2022 09:00:00 AM,124212,SESH Pipeline Conditions for 8/23/2022,,SESH
+80,Capacity Constraint,08/21/2022 02:53:12 PM,08/22/2022 09:00:00 AM,08/23/2022 09:00:00 AM,124182,SESH Pipeline Conditions for 8/22/2022,,SESH
+81,Capacity Constraint,08/20/2022 03:11:20 PM,08/21/2022 09:00:00 AM,08/22/2022 09:00:00 AM,124166,SESH Pipeline Conditions for 8/21/2022,,SESH
+82,Capacity Constraint,08/19/2022 03:32:00 PM,08/20/2022 09:00:00 AM,08/21/2022 09:00:00 AM,124143,SESH Pipeline Conditions for 8/20/2022,,SESH
+83,Capacity Constraint,08/18/2022 02:26:48 PM,08/19/2022 09:00:00 AM,08/20/2022 09:00:00 AM,124095,SESH Pipeline Conditions for 8/19/2022,,SESH
+84,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124070,LINK System Maintenance the weekend of September 16th,,SESH
+85,Capacity Constraint,08/17/2022 02:40:37 PM,08/18/2022 09:00:00 AM,08/19/2022 09:00:00 AM,124037,SESH Pipeline Conditions for 8/18/2022,,SESH
+86,Capacity Constraint,08/16/2022 02:47:57 PM,08/17/2022 09:00:00 AM,08/18/2022 09:00:00 AM,123959,SESH Pipeline Conditions for 8/17/2022,,SESH
+87,Capacity Constraint,08/15/2022 02:21:00 PM,08/16/2022 09:00:00 AM,08/17/2022 09:00:00 AM,123929,SESH Pipeline Conditions for 8/16/2022,,SESH
+88,Capacity Constraint,08/14/2022 02:48:52 PM,08/15/2022 09:00:00 AM,08/16/2022 09:00:00 AM,123902,SESH Pipeline Conditions for 8/15/2022,,SESH
+89,Capacity Constraint,08/13/2022 02:50:52 PM,08/14/2022 09:00:00 AM,08/15/2022 09:00:00 AM,123873,SESH Pipeline Conditions for 8/14/2022,,SESH
+90,Capacity Constraint,08/12/2022 03:28:29 PM,08/13/2022 09:00:00 AM,08/14/2022 09:00:00 AM,123864,SESH Pipeline Conditions for 8/13/2022,,SESH
+91,Capacity Constraint,08/11/2022 03:04:00 PM,08/12/2022 09:00:00 AM,08/13/2022 09:00:00 AM,123817,SESH Pipeline Conditions for 8/12/2022,,SESH
+92,Capacity Constraint,08/10/2022 03:26:00 PM,08/11/2022 09:00:00 AM,08/12/2022 09:00:00 AM,123790,SESH Pipeline Conditions for 8/11/2022,,SESH
+93,Capacity Constraint,08/09/2022 03:26:00 PM,08/10/2022 09:00:00 AM,08/11/2022 09:00:00 AM,123745,SESH Pipeline Conditions for 8/10/2022,,SESH
+94,Capacity Constraint,08/08/2022 02:33:51 PM,08/09/2022 09:00:00 AM,08/10/2022 09:00:00 AM,123698,SESH Pipeline Conditions for 8/9/2022,,SESH
+95,Capacity Constraint,08/07/2022 03:08:14 PM,08/08/2022 09:00:00 AM,08/09/2022 09:00:00 AM,123682,SESH Pipeline Conditions for 8/8/2022,,SESH
+96,Capacity Constraint,08/06/2022 03:40:50 PM,08/07/2022 09:00:00 AM,08/08/2022 09:00:00 AM,123654,SESH Pipeline Conditions for 8/7/2022,,SESH
+97,Capacity Constraint,08/05/2022 03:39:23 PM,08/06/2022 09:00:00 AM,08/07/2022 09:00:00 AM,123627,SESH Pipeline Conditions for 8/6/2022,,SESH
+98,Capacity Constraint,08/04/2022 02:25:24 PM,08/05/2022 09:00:00 AM,08/06/2022 09:00:00 AM,123576,SESH Pipeline Conditions for 8/5/2022,,SESH
+99,Capacity Constraint,08/03/2022 02:23:00 PM,08/04/2022 09:00:00 AM,08/05/2022 09:00:00 AM,123544,SESH Pipeline Conditions for 8/4/2022,,SESH
+0,Capacity Constraint,10/31/2022 03:52:00 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126908,SGSC Storage Conditions for 11/1/2022,,SG
+1,Capacity Constraint,10/30/2022 02:30:00 PM,10/31/2022 09:00:00 AM,11/01/2022 09:00:00 AM,126846,SGSC Storage Conditions for 10/31/2022,,SG
+2,Capacity Constraint,10/29/2022 02:30:00 PM,10/30/2022 09:00:00 AM,10/31/2022 09:00:00 AM,126812,SGSC Storage Conditions for 10/30/2022,,SG
+3,Capacity Constraint,10/28/2022 02:53:38 PM,10/29/2022 09:00:00 AM,10/30/2022 09:00:00 AM,126785,SGSC Storage Conditions for 10/29/2022,,SG
+4,Capacity Constraint,10/27/2022 02:27:52 PM,10/28/2022 09:00:00 AM,10/29/2022 09:00:00 AM,126746,SGSC Storage Conditions for 10/28/2022,,SG
+5,Capacity Constraint,10/26/2022 02:25:26 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126702,SGSC Storage Conditions for 10/27/2022,,SG
+6,Capacity Constraint,10/25/2022 02:35:00 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126655,SGSC Storage Conditions for 10/26/2022,,SG
+7,Capacity Constraint,10/24/2022 03:04:14 PM,10/25/2022 09:00:00 AM,10/26/2022 09:00:00 AM,126617,SGSC Storage Conditions for 10/25/2022,,SG
+8,Capacity Constraint,10/23/2022 03:23:56 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126582,SGSC Storage Conditions for 10/24/2022,,SG
+9,Capacity Constraint,10/22/2022 02:11:14 PM,10/23/2022 09:00:00 AM,10/24/2022 09:00:00 AM,126532,SGSC Storage Conditions for 10/23/2022,,SG
+10,Capacity Constraint,10/21/2022 02:31:55 PM,10/22/2022 09:00:00 AM,10/23/2022 09:00:00 AM,126502,SGSC Storage Conditions for 10/22/2022,,SG
+11,Capacity Constraint,10/20/2022 03:49:17 PM,10/21/2022 09:00:00 AM,10/22/2022 09:00:00 AM,126476,SGSC Storage Conditions for 10/21/2022,,SG
+12,Capacity Constraint,10/19/2022 03:20:37 PM,10/20/2022 09:00:00 AM,10/21/2022 09:00:00 AM,126434,SGSC Storage Conditions for 10/20/2022,,SG
+13,Capacity Constraint,10/18/2022 02:43:00 PM,10/19/2022 09:00:00 AM,10/20/2022 09:00:00 AM,126384,SGSC Storage Conditions for 10/19/2022,,SG
+14,Capacity Constraint,10/17/2022 02:24:00 PM,10/18/2022 09:00:00 AM,10/19/2022 09:00:00 AM,126331,SGSC Storage Conditions for 10/18/2022,,SG
+15,Capacity Constraint,10/16/2022 03:03:01 PM,10/17/2022 09:00:00 AM,10/18/2022 09:00:00 AM,126300,SGSC Storage Conditions for 10/17/2022,,SG
+16,Capacity Constraint,10/15/2022 02:33:19 PM,10/16/2022 09:00:00 AM,10/17/2022 09:00:00 AM,126268,SGSC Storage Conditions for 10/16/2022,,SG
+17,Capacity Constraint,10/14/2022 02:48:10 PM,10/15/2022 09:00:00 AM,10/16/2022 09:00:00 AM,126234,SGSC Storage Conditions for 10/15/2022,,SG
+18,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126219,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,SG
+19,Capacity Constraint,10/13/2022 02:05:35 PM,10/14/2022 09:00:00 AM,10/15/2022 09:00:00 AM,126167,SGSC Storage Conditions for 10/14/2022,,SG
+20,Capacity Constraint,10/12/2022 02:58:00 PM,10/13/2022 09:00:00 AM,10/14/2022 09:00:00 AM,126144,SGSC Storage Conditions for 10/13/2022,,SG
+21,Capacity Constraint,10/11/2022 02:34:00 PM,10/12/2022 09:00:00 AM,10/13/2022 09:00:00 AM,126109,SGSC Storage Conditions for 10/12/2022,,SG
+22,Capacity Constraint,10/10/2022 03:40:36 PM,10/11/2022 09:00:00 AM,10/12/2022 09:00:00 AM,126061,SGSC Storage Conditions for 10/11/2022,,SG
+23,Capacity Constraint,10/09/2022 03:29:10 PM,10/10/2022 09:00:00 AM,10/11/2022 09:00:00 AM,126001,SGSC Storage Conditions for 10/10/2022,,SG
+24,Capacity Constraint,10/08/2022 03:10:50 PM,10/09/2022 09:00:00 AM,10/10/2022 09:00:00 AM,125972,SGSC Storage Conditions for 10/9/2022,,SG
+25,Capacity Constraint,10/07/2022 03:38:00 PM,10/08/2022 09:00:00 AM,10/09/2022 09:00:00 AM,125939,SGSC Storage Conditions for 10/8/2022,,SG
+26,Capacity Constraint,10/06/2022 03:11:13 PM,10/07/2022 09:00:00 AM,10/08/2022 09:00:00 AM,125905,SGSC Storage Conditions for 10/7/2022,,SG
+27,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125882,LINK System Maintenance the weekend of October 14th,,SG
+28,Capacity Constraint,10/05/2022 02:21:15 PM,10/06/2022 09:00:00 AM,10/07/2022 09:00:00 AM,125832,SGSC Storage Conditions for 10/6/2022,,SG
+29,Capacity Constraint,10/04/2022 03:10:45 PM,10/05/2022 09:00:00 AM,10/06/2022 09:00:00 AM,125809,SGSC Storage Conditions for 10/5/2022,,SG
+30,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125781,"Reminder - Application Maintenance on Wednesday October 5, 2022",,SG
+31,Capacity Constraint,10/03/2022 02:09:45 PM,10/04/2022 09:00:00 AM,10/05/2022 09:00:00 AM,125739,SGSC Storage Conditions for 10/4/2022,,SG
+32,Capacity Constraint,10/02/2022 03:15:42 PM,10/03/2022 09:00:00 AM,10/04/2022 09:00:00 AM,125716,SGSC Storage Conditions for 10/3/2022,,SG
+33,Capacity Constraint,10/01/2022 03:17:34 PM,10/02/2022 09:00:00 AM,10/03/2022 09:00:00 AM,125687,SGSC Storage Conditions for 10/2/2022,,SG
+34,Capacity Constraint,09/30/2022 03:37:33 PM,10/01/2022 09:00:00 AM,10/02/2022 09:00:00 AM,125652,SGSC Storage Conditions for 10/1/2022,,SG
+35,Capacity Constraint,09/29/2022 03:02:00 PM,09/30/2022 09:00:00 AM,10/01/2022 09:00:00 AM,125606,SGSC Storage Conditions for 9/30/2022,,SG
+36,Capacity Constraint,09/28/2022 02:15:53 PM,09/29/2022 09:00:00 AM,09/30/2022 09:00:00 AM,125562,SGSC Storage Conditions for 9/29/2022,,SG
+37,Capacity Constraint,09/27/2022 02:27:07 PM,09/28/2022 09:00:00 AM,09/29/2022 09:00:00 AM,125526,SGSC Storage Conditions for 9/28/2022,,SG
+38,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125509,"LINK Application Maintenance Postponed until October 5, 2022",,SG
+39,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125481,"Reminder about Application Maintenance on Wednesday September 28, 2022",,SG
+40,Capacity Constraint,09/26/2022 02:19:09 PM,09/27/2022 09:00:00 AM,09/28/2022 09:00:00 AM,125443,SGSC Storage Conditions for 9/27/2022,,SG
+41,Capacity Constraint,09/25/2022 02:36:42 PM,09/26/2022 09:00:00 AM,09/27/2022 09:00:00 AM,125416,SGSC Storage Conditions for 9/26/2022,,SG
+42,Capacity Constraint,09/24/2022 02:43:00 PM,09/25/2022 09:00:00 AM,09/26/2022 09:00:00 AM,125389,SGSC Storage Conditions for 9/25/2022,,SG
+43,Capacity Constraint,09/23/2022 02:53:00 PM,09/24/2022 09:00:00 AM,09/25/2022 09:00:00 AM,125357,SGSC Storage Conditions for 9/24/2022,,SG
+44,Capacity Constraint,09/22/2022 03:08:00 PM,09/23/2022 09:00:00 AM,09/24/2022 09:00:00 AM,125343,SGSC Storage Conditions for 9/23/2022,,SG
+45,Capacity Constraint,09/21/2022 02:26:00 PM,09/22/2022 09:00:00 AM,09/23/2022 09:00:00 AM,125291,SGSC Storage Conditions for 9/22/2022,,SG
+46,Capacity Constraint,09/20/2022 02:47:40 PM,09/21/2022 09:00:00 AM,09/22/2022 09:00:00 AM,125255,SGSC Storage Conditions for 9/21/2022,,SG
+47,Capacity Constraint,09/19/2022 02:12:57 PM,09/20/2022 09:00:00 AM,09/21/2022 09:00:00 AM,125224,SGSC Storage Conditions for 9/20/2022,,SG
+48,Capacity Constraint,09/18/2022 03:08:49 PM,09/19/2022 09:00:00 AM,09/20/2022 09:00:00 AM,125207,SGSC Storage Conditions for 9/19/2022,,SG
+49,Capacity Constraint,09/17/2022 03:24:35 PM,09/18/2022 09:00:00 AM,09/19/2022 09:00:00 AM,125178,SGSC Storage Conditions for 9/18/2022,,SG
+50,Capacity Constraint,09/16/2022 02:24:44 PM,09/17/2022 09:00:00 AM,09/18/2022 09:00:00 AM,125137,SGSC Storage Conditions for 9/17/2022,,SG
+51,Capacity Constraint,09/15/2022 03:04:12 PM,09/16/2022 09:00:00 AM,09/17/2022 09:00:00 AM,125109,SGSC Storage Conditions for 9/16/2022,,SG
+52,Capacity Constraint,09/14/2022 02:20:04 PM,09/15/2022 09:00:00 AM,09/16/2022 09:00:00 AM,125074,SGSC Storage Conditions for 9/15/2022,,SG
+53,Capacity Constraint,09/13/2022 02:42:46 PM,09/14/2022 09:00:00 AM,09/15/2022 09:00:00 AM,125046,SGSC Storage Conditions for 9/14/2022,,SG
+54,Capacity Constraint,09/12/2022 02:56:55 PM,09/13/2022 09:00:00 AM,09/14/2022 09:00:00 AM,124967,SGSC Storage Conditions for 9/13/2022,,SG
+55,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124947,"Changes to LINK System Maintenance for the week of September 12, 2022",,SG
+56,Capacity Constraint,09/11/2022 03:07:32 PM,09/12/2022 09:00:00 AM,09/13/2022 09:00:00 AM,124922,SGSC Storage Conditions for 9/12/2022,,SG
+57,Capacity Constraint,09/10/2022 01:52:33 PM,09/11/2022 09:00:00 AM,09/12/2022 09:00:00 AM,124877,SGSC Storage Conditions for 9/11/2022,,SG
+58,Capacity Constraint,09/09/2022 03:27:00 PM,09/10/2022 09:00:00 AM,09/11/2022 09:00:00 AM,124870,SGSC Storage Conditions for 9/10/2022,,SG
+59,Capacity Constraint,09/08/2022 02:27:39 PM,09/09/2022 09:00:00 AM,09/10/2022 09:00:00 AM,124803,SGSC Storage Conditions for 9/9/2022,,SG
+60,Capacity Constraint,09/07/2022 02:07:51 PM,09/08/2022 09:00:00 AM,09/09/2022 09:00:00 AM,124770,SGSC Storage Conditions for 9/8/2022,,SG
+61,Capacity Constraint,09/06/2022 02:27:48 PM,09/07/2022 09:00:00 AM,09/08/2022 09:00:00 AM,124735,SGSC Storage Conditions for 9/7/2022,,SG
+62,Capacity Constraint,09/05/2022 03:04:22 PM,09/06/2022 09:00:00 AM,09/07/2022 09:00:00 AM,124707,SGSC Storage Conditions for 9/6/2022,,SG
+63,Capacity Constraint,09/04/2022 02:49:44 PM,09/05/2022 09:00:00 AM,09/06/2022 09:00:00 AM,124677,SGSC Storage Conditions for 9/5/2022,,SG
+64,Capacity Constraint,09/03/2022 03:00:44 PM,09/04/2022 09:00:00 AM,09/05/2022 09:00:00 AM,124652,SGSC Storage Conditions for 9/4/2022,,SG
+65,Capacity Constraint,09/02/2022 03:11:00 PM,09/03/2022 09:00:00 AM,09/04/2022 09:00:00 AM,124629,SGSC Storage Conditions for 9/3/2022,,SG
+66,Capacity Constraint,09/01/2022 02:16:41 PM,09/02/2022 09:00:00 AM,09/03/2022 09:00:00 AM,124581,SGSC Storage Conditions for 9/2/2022,,SG
+67,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124566,Application Maintenance on September 14,,SG
+68,Capacity Constraint,08/31/2022 03:49:30 PM,09/01/2022 09:00:00 AM,09/02/2022 09:00:00 AM,124540,SGSC Storage Conditions for 9/1/2022,,SG
+69,Capacity Constraint,08/30/2022 02:27:22 PM,08/31/2022 09:00:00 AM,09/01/2022 09:00:00 AM,124491,SGSC Storage Conditions for 8/31/2022,,SG
+70,Capacity Constraint,08/29/2022 02:36:19 PM,08/30/2022 09:00:00 AM,08/31/2022 09:00:00 AM,124454,SGSC Storage Conditions for 8/30/2022,,SG
+71,Capacity Constraint,08/28/2022 03:19:42 PM,08/29/2022 09:00:00 AM,08/30/2022 09:00:00 AM,124409,SGSC Storage Conditions for 8/29/2022,,SG
+72,Capacity Constraint,08/27/2022 03:24:09 PM,08/28/2022 09:00:00 AM,08/29/2022 09:00:00 AM,124386,SGSC Storage Conditions for 8/28/2022,,SG
+73,Capacity Constraint,08/26/2022 02:24:30 PM,08/27/2022 09:00:00 AM,08/28/2022 09:00:00 AM,124343,SGSC Storage Conditions for 8/27/2022,,SG
+74,Capacity Constraint,08/25/2022 02:24:33 PM,08/26/2022 09:00:00 AM,08/27/2022 09:00:00 AM,124316,SGSC Storage Conditions for 8/26/2022,,SG
+75,Capacity Constraint,08/24/2022 02:32:44 PM,08/25/2022 09:00:00 AM,08/26/2022 09:00:00 AM,124274,SGSC Storage Conditions for 8/25/2022,,SG
+76,Capacity Constraint,08/23/2022 02:10:59 PM,08/24/2022 09:00:00 AM,08/25/2022 09:00:00 AM,124246,SGSC Storage Conditions for 8/24/2022,,SG
+77,Capacity Constraint,08/22/2022 02:35:14 PM,08/23/2022 09:00:00 AM,08/24/2022 09:00:00 AM,124208,SGSC Storage Conditions for 8/23/2022,,SG
+78,Capacity Constraint,08/21/2022 02:43:13 PM,08/22/2022 09:00:00 AM,08/23/2022 09:00:00 AM,124180,SGSC Storage Conditions for 8/22/2022,,SG
+79,Capacity Constraint,08/20/2022 02:22:56 PM,08/21/2022 09:00:00 AM,08/22/2022 09:00:00 AM,124145,SGSC Storage Conditions for 8/21/2022,,SG
+80,Capacity Constraint,08/19/2022 02:51:52 PM,08/20/2022 09:00:00 AM,08/21/2022 09:00:00 AM,124123,SGSC Storage Conditions for 8/20/2022,,SG
+81,Capacity Constraint,08/18/2022 02:31:43 PM,08/19/2022 09:00:00 AM,08/20/2022 09:00:00 AM,124097,SGSC Storage Conditions for 8/19/2022,,SG
+82,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124071,LINK System Maintenance the weekend of September 16th,,SG
+83,Capacity Constraint,08/17/2022 02:46:22 PM,08/18/2022 09:00:00 AM,08/19/2022 09:00:00 AM,124038,SGSC Storage Conditions for 8/18/2022,,SG
+84,Capacity Constraint,08/16/2022 02:45:36 PM,08/17/2022 09:00:00 AM,08/18/2022 09:00:00 AM,123958,SGSC Storage Conditions for 8/17/2022,,SG
+85,Capacity Constraint,08/15/2022 02:17:22 PM,08/16/2022 09:00:00 AM,08/17/2022 09:00:00 AM,123927,SGSC Storage Conditions for 8/16/2022,,SG
+86,Capacity Constraint,08/14/2022 02:54:33 PM,08/15/2022 09:00:00 AM,08/16/2022 09:00:00 AM,123906,SGSC Storage Conditions for 8/15/2022,,SG
+87,Capacity Constraint,08/13/2022 02:54:39 PM,08/14/2022 09:00:00 AM,08/15/2022 09:00:00 AM,123879,SGSC Storage Conditions for 8/14/2022,,SG
+88,Capacity Constraint,08/12/2022 03:32:01 PM,08/13/2022 09:00:00 AM,08/14/2022 09:00:00 AM,123865,SGSC Storage Conditions for 8/13/2022,,SG
+89,Capacity Constraint,08/11/2022 03:15:12 PM,08/12/2022 09:00:00 AM,08/13/2022 09:00:00 AM,123832,SGSC Storage Conditions for 8/12/2022,,SG
+90,Capacity Constraint,08/10/2022 03:31:00 PM,08/11/2022 09:00:00 AM,08/12/2022 09:00:00 AM,123791,SGSC Storage Conditions for 8/11/2022,,SG
+91,Capacity Constraint,08/09/2022 03:30:00 PM,08/10/2022 09:00:00 AM,08/11/2022 09:00:00 AM,123746,SGSC Storage Conditions for 8/10/2022,,SG
+92,Capacity Constraint,08/08/2022 02:30:50 PM,08/09/2022 09:00:00 AM,08/10/2022 09:00:00 AM,123697,SGSC Storage Conditions for 8/92022,,SG
+93,Capacity Constraint,08/07/2022 03:05:28 PM,08/08/2022 09:00:00 AM,08/09/2022 09:00:00 AM,123667,SGSC Storage Conditions for 8/8/2022,,SG
+94,Capacity Constraint,08/06/2022 03:30:54 PM,08/07/2022 09:00:00 AM,08/08/2022 09:00:00 AM,123648,SGSC Storage Conditions for 8/7/2022,,SG
+95,Capacity Constraint,08/05/2022 03:31:47 PM,08/06/2022 09:00:00 AM,08/07/2022 09:00:00 AM,123622,SGSC Storage Conditions for 8/6/2022,,SG
+96,Capacity Constraint,08/04/2022 02:28:12 PM,08/05/2022 09:00:00 AM,08/06/2022 09:00:00 AM,123578,SGSC Storage Conditions for 8/5/2022,,SG
+97,Capacity Constraint,08/03/2022 02:26:26 PM,08/04/2022 09:00:00 AM,08/05/2022 09:00:00 AM,123546,SGSC Storage Conditions for 8/4/2022,,SG
+0,Capacity Constraint,10/31/2022 03:54:00 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126909,SR Storage Conditions for 11/1/2022,,SR
+1,Capacity Constraint,10/30/2022 02:30:00 PM,10/31/2022 09:00:00 AM,11/01/2022 09:00:00 AM,126845,SR Storage Conditions for 10/31/2022,,SR
+2,Capacity Constraint,10/29/2022 02:30:00 PM,10/30/2022 09:00:00 AM,10/31/2022 09:00:00 AM,126811,SR Storage Conditions for 10/30/2022,,SR
+3,Capacity Constraint,10/28/2022 02:51:38 PM,10/29/2022 09:00:00 AM,10/30/2022 09:00:00 AM,126784,SR Storage Conditions for 10/29/2022,,SR
+4,Capacity Constraint,10/27/2022 02:26:43 PM,10/28/2022 09:00:00 AM,10/29/2022 09:00:00 AM,126745,SR Storage Conditions for 10/28/2022,,SR
+5,Capacity Constraint,10/26/2022 02:23:54 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126701,SR Storage Conditions for 10/27/2022,,SR
+6,Capacity Constraint,10/25/2022 02:35:00 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126654,SR Storage Conditions for 10/26/2022,,SR
+7,Capacity Constraint,10/24/2022 03:03:08 PM,10/25/2022 09:00:00 AM,10/26/2022 09:00:00 AM,126616,SR Storage Conditions for 10/25/2022,,SR
+8,Capacity Constraint,10/23/2022 03:22:44 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126581,SR Storage Conditions for 10/24/2022,,SR
+9,Capacity Constraint,10/22/2022 02:15:10 PM,10/23/2022 09:00:00 AM,10/24/2022 09:00:00 AM,126533,SR Storage Conditions for 10/23/2022,,SR
+10,Capacity Constraint,10/21/2022 02:30:39 PM,10/22/2022 09:00:00 AM,10/23/2022 09:00:00 AM,126501,SR Storage Conditions for 10/22/2022,,SR
+11,Capacity Constraint,10/20/2022 03:46:34 PM,10/21/2022 09:00:00 AM,10/22/2022 09:00:00 AM,126475,SR Storage Conditions for 10/21/2022,,SR
+12,Capacity Constraint,10/19/2022 03:17:57 PM,10/20/2022 09:00:00 AM,10/21/2022 09:00:00 AM,126433,SR Storage Conditions for 10/20/2022,,SR
+13,Capacity Constraint,10/18/2022 02:47:43 PM,10/19/2022 09:00:00 AM,10/20/2022 09:00:00 AM,126385,SR Storage Conditions for 10/19/2022,,SR
+14,Capacity Constraint,10/17/2022 02:22:16 PM,10/18/2022 09:00:00 AM,10/19/2022 09:00:00 AM,126330,SR Storage Conditions for 10/18/2022,,SR
+15,Capacity Constraint,10/16/2022 03:03:58 PM,10/17/2022 09:00:00 AM,10/18/2022 09:00:00 AM,126301,SR Storage Conditions for 10/17/2022,,SR
+16,Capacity Constraint,10/15/2022 02:32:27 PM,10/16/2022 09:00:00 AM,10/17/2022 09:00:00 AM,126267,SR Storage Conditions for 10/16/2022,,SR
+17,Capacity Constraint,10/14/2022 02:50:36 PM,10/15/2022 09:00:00 AM,10/16/2022 09:00:00 AM,126236,SR Storage Conditions for 10/15/2022,,SR
+18,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126220,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,SR
+19,Capacity Constraint,10/13/2022 02:06:41 PM,10/14/2022 09:00:00 AM,10/15/2022 09:00:00 AM,126168,SR Storage Conditions for 10/14/2022,,SR
+20,Capacity Constraint,10/12/2022 02:55:47 PM,10/13/2022 09:00:00 AM,10/14/2022 09:00:00 AM,126143,SR Storage Conditions for 10/13/2022,,SR
+21,Capacity Constraint,10/11/2022 02:31:54 PM,10/12/2022 09:00:00 AM,10/13/2022 09:00:00 AM,126108,SR Storage Conditions for 10/12/2022,,SR
+22,Capacity Constraint,10/10/2022 03:37:07 PM,10/11/2022 09:00:00 AM,10/12/2022 09:00:00 AM,126059,SR Storage Conditions for 10/11/2022,,SR
+23,Capacity Constraint,10/09/2022 03:31:12 PM,10/10/2022 09:00:00 AM,10/11/2022 09:00:00 AM,126002,SR Storage Conditions for 10/10/2022,,SR
+24,Capacity Constraint,10/08/2022 03:12:23 PM,10/09/2022 09:00:00 AM,10/10/2022 09:00:00 AM,125973,SR Storage Conditions for 10/9/2022,,SR
+25,Capacity Constraint,10/07/2022 03:42:13 PM,10/08/2022 09:00:00 AM,10/09/2022 09:00:00 AM,125940,SR Storage Conditions for 10/8/2022,,SR
+26,Capacity Constraint,10/06/2022 03:09:54 PM,10/07/2022 09:00:00 AM,10/08/2022 09:00:00 AM,125904,SR Storage Conditions for 10/7/2022,,SR
+27,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125883,LINK System Maintenance the weekend of October 14th,,SR
+28,Capacity Constraint,10/05/2022 02:18:01 PM,10/06/2022 09:00:00 AM,10/07/2022 09:00:00 AM,125829,SR Storage Conditions for 10/6/2022,,SR
+29,Capacity Constraint,10/04/2022 03:07:14 PM,10/05/2022 09:00:00 AM,10/06/2022 09:00:00 AM,125808,SR Storage Conditions for 10/5/2022,,SR
+30,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125782,"Reminder - Application Maintenance on Wednesday October 5, 2022",,SR
+31,Capacity Constraint,10/03/2022 02:11:01 PM,10/04/2022 09:00:00 AM,10/05/2022 09:00:00 AM,125740,SR Storage Conditions for 10/4/2022,,SR
+32,Capacity Constraint,10/02/2022 03:25:30 PM,10/03/2022 09:00:00 AM,10/04/2022 09:00:00 AM,125717,SR Storage Conditions for 10/3/2022,,SR
+33,Capacity Constraint,10/01/2022 03:24:06 PM,10/02/2022 09:00:00 AM,10/03/2022 09:00:00 AM,125689,SR Storage Conditions for 10/2/2022,,SR
+34,Capacity Constraint,09/30/2022 03:34:00 PM,10/01/2022 09:00:00 AM,10/02/2022 09:00:00 AM,125651,SR Storage Conditions for 10/1/2022,,SR
+35,Capacity Constraint,09/29/2022 03:04:00 PM,09/30/2022 09:00:00 AM,10/01/2022 09:00:00 AM,125620,SR Storage Conditions for 9/30/2022,,SR
+36,Capacity Constraint,09/28/2022 02:13:32 PM,09/29/2022 09:00:00 AM,09/30/2022 09:00:00 AM,125561,SR Storage Conditions for 9/29/2022,,SR
+37,Capacity Constraint,09/27/2022 02:25:30 PM,09/28/2022 09:00:00 AM,09/29/2022 09:00:00 AM,125525,SR Storage Conditions for 9/28/2022,,SR
+38,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125510,"LINK Application Maintenance Postponed until October 5, 2022",,SR
+39,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125482,"Reminder about Application Maintenance on Wednesday September 28, 2022",,SR
+40,Capacity Constraint,09/26/2022 02:17:16 PM,09/27/2022 09:00:00 AM,09/28/2022 09:00:00 AM,125442,SR Storage Conditions for 9/27/2022,,SR
+41,Capacity Constraint,09/25/2022 02:35:31 PM,09/26/2022 09:00:00 AM,09/27/2022 09:00:00 AM,125415,SR Storage Conditions for 9/26/2022,,SR
+42,Capacity Constraint,09/24/2022 02:41:40 PM,09/25/2022 09:00:00 AM,09/26/2022 09:00:00 AM,125388,SR Storage Conditions for 9/25/2022,,SR
+43,Capacity Constraint,09/23/2022 02:56:00 PM,09/24/2022 09:00:00 AM,09/25/2022 09:00:00 AM,125359,SR Storage Conditions for 9/24/2022,,SR
+44,Capacity Constraint,09/22/2022 03:03:00 PM,09/23/2022 09:00:00 AM,09/24/2022 09:00:00 AM,125326,SR Storage Conditions for 9/23/2022,,SR
+45,Capacity Constraint,09/21/2022 02:24:37 PM,09/22/2022 09:00:00 AM,09/23/2022 09:00:00 AM,125290,SR Storage Conditions for 9/22/2022,,SR
+46,Capacity Constraint,09/20/2022 02:44:21 PM,09/21/2022 09:00:00 AM,09/22/2022 09:00:00 AM,125254,SR Storage Conditions for 9/21/2022,,SR
+47,Capacity Constraint,09/19/2022 02:11:55 PM,09/20/2022 09:00:00 AM,09/21/2022 09:00:00 AM,125223,SR Storage Conditions for 9/20/2022,,SR
+48,Capacity Constraint,09/18/2022 03:07:34 PM,09/19/2022 09:00:00 AM,09/20/2022 09:00:00 AM,125206,SR Storage Conditions for 9/19/2022,,SR
+49,Capacity Constraint,09/17/2022 03:26:04 PM,09/18/2022 09:00:00 AM,09/19/2022 09:00:00 AM,125179,SR Storage Conditions for 9/18/2022,,SR
+50,Capacity Constraint,09/16/2022 02:23:12 PM,09/17/2022 09:00:00 AM,09/18/2022 09:00:00 AM,125136,SR Storage Conditions for 9/17/2022,,SR
+51,Capacity Constraint,09/15/2022 02:57:16 PM,09/16/2022 09:00:00 AM,09/17/2022 09:00:00 AM,125108,SR Storage Conditions for 9/16/2022,,SR
+52,Capacity Constraint,09/14/2022 02:22:05 PM,09/15/2022 09:00:00 AM,09/16/2022 09:00:00 AM,125078,SR Storage Conditions for 9/15/2022,,SR
+53,Capacity Constraint,09/13/2022 02:21:15 PM,09/14/2022 09:00:00 AM,09/15/2022 09:00:00 AM,125040,SR Storage Conditions for 9/14/2022,,SR
+54,Capacity Constraint,09/12/2022 02:55:00 PM,09/13/2022 09:00:00 AM,09/14/2022 09:00:00 AM,124966,SR Storage Conditions for 9/13/2022,,SR
+55,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124948,"Changes to LINK System Maintenance for the week of September 12, 2022",,SR
+56,Capacity Constraint,09/11/2022 03:09:58 PM,09/12/2022 09:00:00 AM,09/13/2022 09:00:00 AM,124924,SR Storage Conditions for 9/12/2022,,SR
+57,Capacity Constraint,09/10/2022 01:55:18 PM,09/11/2022 09:00:00 AM,09/12/2022 09:00:00 AM,124878,SR Storage Conditions for 9/11/2022,,SR
+58,Capacity Constraint,09/09/2022 03:30:00 PM,09/10/2022 09:00:00 AM,09/11/2022 09:00:00 AM,124871,SR Storage Conditions for 9/10/2022,,SR
+59,Capacity Constraint,09/08/2022 02:26:35 PM,09/09/2022 09:00:00 AM,09/10/2022 09:00:00 AM,124802,SR Storage Conditions for 9/9/2022,,SR
+60,Capacity Constraint,09/07/2022 02:07:01 PM,09/08/2022 09:00:00 AM,09/09/2022 09:00:00 AM,124763,SR Storage Conditions for 9/8/2022,,SR
+61,Capacity Constraint,09/06/2022 02:26:27 PM,09/07/2022 09:00:00 AM,09/08/2022 09:00:00 AM,124734,SR Storage Conditions for 9/7/2022,,SR
+62,Capacity Constraint,09/05/2022 03:03:23 PM,09/06/2022 09:00:00 AM,09/07/2022 09:00:00 AM,124706,SR Storage Conditions for 9/6/2022,,SR
+63,Capacity Constraint,09/04/2022 02:50:57 PM,09/05/2022 09:00:00 AM,09/06/2022 09:00:00 AM,124678,SR Storage Conditions for 9/5/2022,,SR
+64,Capacity Constraint,09/03/2022 03:02:20 PM,09/04/2022 09:00:00 AM,09/05/2022 09:00:00 AM,124653,SR Storage Conditions for 9/4/2022,,SR
+65,Capacity Constraint,09/02/2022 03:13:00 PM,09/03/2022 09:00:00 AM,09/04/2022 09:00:00 AM,124630,SR Storage Conditions for 9/3/2022,,SR
+66,Capacity Constraint,09/01/2022 02:18:04 PM,09/02/2022 09:00:00 AM,09/03/2022 09:00:00 AM,124583,SR Storage Conditions for 9/2/2022,,SR
+67,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124567,Application Maintenance on September 14,,SR
+68,Capacity Constraint,08/31/2022 03:52:39 PM,09/01/2022 09:00:00 AM,09/02/2022 09:00:00 AM,124541,SR Storage Conditions for 9/1/2022,,SR
+69,Capacity Constraint,08/30/2022 02:25:56 PM,08/31/2022 09:00:00 AM,09/01/2022 09:00:00 AM,124490,SR Storage Conditions for 8/31/2022,,SR
+70,Capacity Constraint,08/29/2022 02:30:51 PM,08/30/2022 09:00:00 AM,08/31/2022 09:00:00 AM,124453,SR Storage Conditions for 8/30/2022,,SR
+71,Capacity Constraint,08/28/2022 03:17:36 PM,08/29/2022 09:00:00 AM,08/30/2022 09:00:00 AM,124408,SR Storage Conditions for 8/29/2022,,SR
+72,Capacity Constraint,08/27/2022 03:22:20 PM,08/28/2022 09:00:00 AM,08/29/2022 09:00:00 AM,124385,SR Storage Conditions for 8/28/2022,,SR
+73,Capacity Constraint,08/26/2022 02:25:48 PM,08/27/2022 09:00:00 AM,08/28/2022 09:00:00 AM,124344,SR Storage Conditions for 8/27/2022,,SR
+74,Capacity Constraint,08/25/2022 02:26:02 PM,08/26/2022 09:00:00 AM,08/27/2022 09:00:00 AM,124317,SR Storage Conditions for 8/26/2022,,SR
+75,Capacity Constraint,08/24/2022 02:30:47 PM,08/25/2022 09:00:00 AM,08/26/2022 09:00:00 AM,124273,SR Storage Conditions for 8/25/2022,,SR
+76,Capacity Constraint,08/23/2022 02:07:52 PM,08/24/2022 09:00:00 AM,08/25/2022 09:00:00 AM,124245,SR Storage Conditions for 8/24/2022,,SR
+77,Capacity Constraint,08/22/2022 02:33:48 PM,08/23/2022 09:00:00 AM,08/24/2022 09:00:00 AM,124207,SR Storage Conditions for 8/23/2022,,SR
+78,Capacity Constraint,08/21/2022 02:41:49 PM,08/22/2022 09:00:00 AM,08/23/2022 09:00:00 AM,124179,SR Storage Conditions for 8/22/2022,,SR
+79,Capacity Constraint,08/20/2022 02:25:51 PM,08/21/2022 09:00:00 AM,08/22/2022 09:00:00 AM,124146,SR Storage Conditions for 8/21/2022,,SR
+80,Capacity Constraint,08/19/2022 02:50:23 PM,08/20/2022 09:00:00 AM,08/21/2022 09:00:00 AM,124122,SR Storage Conditions for 8/20/2022,,SR
+81,Capacity Constraint,08/18/2022 02:29:33 PM,08/19/2022 09:00:00 AM,08/20/2022 09:00:00 AM,124096,SR Storage Conditions for 8/19/2022,,SR
+82,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124072,LINK System Maintenance the weekend of September 16th,,SR
+83,Capacity Constraint,08/17/2022 02:50:02 PM,08/18/2022 09:00:00 AM,08/19/2022 09:00:00 AM,124039,SR Storage Conditions for 8/18/2022,,SR
+84,Capacity Constraint,08/16/2022 02:43:24 PM,08/17/2022 09:00:00 AM,08/18/2022 09:00:00 AM,123957,SR Storage Conditions for 8/17/2022,,SR
+85,Capacity Constraint,08/15/2022 02:19:00 PM,08/16/2022 09:00:00 AM,08/17/2022 09:00:00 AM,123928,SR Storage Conditions for 8/16/2022,,SR
+86,Capacity Constraint,08/14/2022 02:53:14 PM,08/15/2022 09:00:00 AM,08/16/2022 09:00:00 AM,123905,SR Storage Conditions for 8/15/2022,,SR
+87,Capacity Constraint,08/13/2022 02:53:24 PM,08/14/2022 09:00:00 AM,08/15/2022 09:00:00 AM,123878,SR Storage Conditions for 8/14/2022,,SR
+88,Capacity Constraint,08/12/2022 03:34:25 PM,08/13/2022 09:00:00 AM,08/14/2022 09:00:00 AM,123866,SR Storage Conditions for 8/13/2022,,SR
+89,Capacity Constraint,08/11/2022 03:12:00 PM,08/12/2022 09:00:00 AM,08/13/2022 09:00:00 AM,123831,SR Storage Conditions for 8/12/2022,,SR
+90,Capacity Constraint,08/10/2022 03:35:00 PM,08/11/2022 09:00:00 AM,08/12/2022 09:00:00 AM,123792,SR Storage Conditions for 8/11/2022,,SR
+91,Capacity Constraint,08/09/2022 03:35:00 PM,08/10/2022 09:00:00 AM,08/11/2022 09:00:00 AM,123747,SR Storage Conditions for 8/10/2022,,SR
+92,Capacity Constraint,08/08/2022 02:35:25 PM,08/09/2022 09:00:00 AM,08/10/2022 09:00:00 AM,123699,SR Storage Conditions for 8/9/2022,,SR
+93,Capacity Constraint,08/07/2022 03:03:35 PM,08/08/2022 09:00:00 AM,08/09/2022 09:00:00 AM,123666,SR Storage Conditions for 8/8/2022,,SR
+94,Capacity Constraint,08/06/2022 03:29:18 PM,08/07/2022 09:00:00 AM,08/08/2022 09:00:00 AM,123647,SR Storage Conditions for 8/7/2022,,SR
+95,Capacity Constraint,08/05/2022 03:29:17 PM,08/06/2022 09:00:00 AM,08/07/2022 09:00:00 AM,123621,SR Storage Conditions for 8/6/2022,,SR
+96,Capacity Constraint,08/04/2022 02:27:00 PM,08/05/2022 09:00:00 AM,08/06/2022 09:00:00 AM,123577,SR Storage Conditions for 8/5/2022,,SR
+97,Capacity Constraint,08/03/2022 02:24:55 PM,08/04/2022 09:00:00 AM,08/05/2022 09:00:00 AM,123545,SR Storage Conditions for 8/4/2022,,SR
+0,Capacity Constraint,10/31/2022 02:42:16 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126887,STT Pipeline Conditions for 11/1/2022,,STT
+1,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126221,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,STT
+2,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125884,LINK System Maintenance the weekend of October 14th,,STT
+3,Capacity Constraint,10/05/2022 04:05:25 PM,10/05/2022 04:05:25 PM,01/03/2023 04:05:25 PM,125852,STT Imbalance Notice -- UPDATE,,STT
+4,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125783,"Reminder - Application Maintenance on Wednesday October 5, 2022",,STT
+5,Capacity Constraint,09/28/2022 06:45:26 AM,09/28/2022 06:45:26 AM,12/27/2022 06:45:26 AM,125550,STT Imbalance Notice,,STT
+6,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125511,"LINK Application Maintenance Postponed until October 5, 2022",,STT
+7,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125483,"Reminder about Application Maintenance on Wednesday September 28, 2022",,STT
+8,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124949,"Changes to LINK System Maintenance for the week of September 12, 2022",,STT
+9,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124568,Application Maintenance on September 14,,STT
+10,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124073,LINK System Maintenance the weekend of September 16th,,STT
+0,Capacity Constraint,10/31/2022 03:14:58 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126889,TE Pipeline Conditions for 11/1/2022,,TE
+1,Operational Flow Order,10/31/2022 03:00:00 PM,11/01/2022 09:00:00 AM,01/29/2023 09:03:09 AM,126876,TE Individual Operational Flow Order -- LIFTED,,TE
+2,Operational Flow Order,10/31/2022 08:25:23 AM,10/31/2022 08:25:23 AM,01/29/2023 08:25:23 AM,126874,TE System Wide OFO -- LIFTED,,TE
+3,Capacity Constraint,10/30/2022 03:06:23 PM,10/31/2022 09:00:00 AM,11/01/2022 09:00:00 AM,126873,TE Pipeline Conditions for 10/31/2022,,TE
+4,Capacity Constraint,10/29/2022 03:16:47 PM,10/30/2022 09:00:00 AM,10/31/2022 09:00:00 AM,126841,TE Pipeline Conditions for 10/30/2022,,TE
+5,Capacity Constraint,10/28/2022 02:56:00 PM,10/29/2022 09:00:00 AM,10/30/2022 09:00:00 AM,126786,TE Pipeline Conditions for 10/29/2022,,TE
+6,Capacity Constraint,10/28/2022 01:15:00 PM,10/28/2022 01:15:00 PM,01/26/2023 01:15:00 PM,126774,Line 40 Operational Advisory - LIFTED,,TE
+7,Capacity Constraint,10/27/2022 03:38:52 PM,10/28/2022 09:00:00 AM,10/29/2022 09:00:00 AM,126770,TE Pipeline Conditions for 10/28/2022,,TE
+8,Capacity Constraint,10/27/2022 10:16:00 AM,10/27/2022 10:16:00 AM,01/25/2023 10:16:00 AM,126736,"Provident City to Speaks, PRCY LN 11 VS 1 Isolation -- COMPLETE",,TE
+9,Operational Flow Order,10/27/2022 07:18:58 AM,10/28/2022 09:00:00 AM,01/25/2023 07:18:58 AM,126727,TE System Wide OFO EFF 10/28,,TE
+10,Capacity Constraint,10/26/2022 03:12:57 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126721,TE Pipeline Conditions for 10/27/2022,,TE
+11,Capacity Constraint,10/26/2022 11:37:53 AM,10/26/2022 11:37:53 AM,01/24/2023 11:37:53 AM,126687,TE Meter Underperformance,,TE
+12,Operational Flow Order,10/26/2022 10:30:00 AM,10/26/2022 10:30:00 AM,01/24/2023 10:30:00 AM,126686,TE Individual Operational Flow Order,,TE
+13,Capacity Constraint,10/26/2022 08:19:17 AM,10/26/2022 08:19:17 AM,01/24/2023 08:19:17 AM,126682,Line 40 Operational Advisory - Correction Not Line 41,,TE
+14,Capacity Constraint,10/26/2022 07:35:02 AM,10/26/2022 07:35:02 AM,01/24/2023 07:35:02 AM,126681,Line 41 Operational Advisory,,TE
+15,Capacity Constraint,10/25/2022 04:22:00 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126680,TE Pipeline Conditions for 10/26/2022,,TE
+16,Over-Under Performance,10/25/2022 02:26:48 PM,10/25/2022 02:26:48 PM,01/23/2023 02:26:48 PM,126653,TE Meter Underperformance,,TE
+17,Capacity Constraint,10/24/2022 04:13:06 PM,10/25/2022 09:00:00 AM,10/26/2022 09:00:00 AM,126635,TE Pipeline Conditions for 10/25/2022,,TE
+18,Capacity Constraint,10/24/2022 03:09:12 PM,10/24/2022 03:09:12 PM,10/28/2022 09:00:00 AM,126629,Joaquin to Longview VS 1-4 Isolation -- COMPLETE,,TE
+19,Capacity Constraint,10/23/2022 03:40:41 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126592,TE Pipeline Conditions for 10/24/2022,,TE
+20,Capacity Constraint,10/22/2022 03:32:47 PM,10/23/2022 09:00:00 AM,10/24/2022 09:00:00 AM,126555,TE Pipeline Conditions for 10/23/2022,,TE
+21,Capacity Constraint,10/21/2022 03:51:00 PM,10/22/2022 09:00:00 AM,10/23/2022 09:00:00 AM,126521,TE Pipeline Conditions for 10/22/2022,,TE
+22,Capacity Constraint,10/20/2022 04:27:00 PM,10/21/2022 09:00:00 AM,10/22/2022 09:00:00 AM,126487,TE Pipeline Conditions for 10/21/2022,,TE
+23,Force Majeure,10/20/2022 02:16:00 PM,10/28/2022 09:00:00 AM,01/18/2023 09:00:00 AM,126454,TE Line 73 Valve Section 2 Force Majeure,,TE
+24,Capacity Constraint,10/20/2022 02:15:00 PM,10/28/2022 09:00:00 AM,11/14/2022 09:00:00 AM,126453,TE Line 73 Valve Section 2 Unplanned Outage,,TE
+25,Capacity Constraint,10/19/2022 06:39:30 PM,10/20/2022 09:00:00 AM,10/21/2022 09:00:00 AM,126446,TE Pipeline Conditions for 10/20/2022 - INTRADAY,,TE
+26,Capacity Constraint,10/19/2022 04:35:00 PM,10/20/2022 09:00:00 AM,10/21/2022 09:00:00 AM,126444,TE Pipeline Conditions for 10/20/2022,,TE
+27,Capacity Constraint,10/18/2022 03:27:08 PM,10/19/2022 09:00:00 AM,10/20/2022 09:00:00 AM,126404,TE Pipeline Conditions for 10/19/2022,,TE
+28,Capacity Constraint,10/18/2022 07:49:55 AM,10/18/2022 09:00:00 AM,10/19/2022 09:00:00 AM,126352,TE Pipeline Conditions for 10/18/2022 -- CORRECTION,,TE
+29,Capacity Constraint,10/17/2022 03:16:08 PM,10/18/2022 09:00:00 AM,10/19/2022 09:00:00 AM,126342,TE Pipeline Conditions for 10/18/2022,,TE
+30,Operational Flow Order,10/17/2022 07:55:49 AM,10/17/2022 09:00:00 AM,01/15/2023 07:55:49 AM,126319,TE M2-30 and M3 OFO -- LIFTED,,TE
+31,Capacity Constraint,10/16/2022 03:11:12 PM,10/17/2022 09:00:00 AM,10/18/2022 09:00:00 AM,126318,TE Pipeline Conditions for 10/17/2022,,TE
+32,Capacity Constraint,10/15/2022 02:54:23 PM,10/16/2022 09:00:00 AM,10/17/2022 09:00:00 AM,126278,TE Pipeline Conditions for 10/16/2022,,TE
+33,Capacity Constraint,10/14/2022 02:58:10 PM,10/15/2022 09:00:00 AM,10/16/2022 09:00:00 AM,126239,TE Pipeline Conditions for 10/15/2022,,TE
+34,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126222,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,TE
+35,Capacity Constraint,10/13/2022 02:44:33 PM,10/14/2022 09:00:00 AM,10/15/2022 09:00:00 AM,126178,TE Pipeline Conditions for 10/14/2022,,TE
+36,Capacity Constraint,10/12/2022 04:00:00 PM,10/13/2022 09:00:00 AM,10/14/2022 09:00:00 AM,126162,TE Pipeline Conditions for 10/13/2022,,TE
+37,Capacity Constraint,10/11/2022 03:12:00 PM,10/12/2022 09:00:00 AM,10/13/2022 09:00:00 AM,126128,TE Pipeline Conditions for 10/12/2022,,TE
+38,Capacity Constraint,10/10/2022 03:31:57 PM,10/11/2022 09:00:00 AM,10/12/2022 09:00:00 AM,126056,TE Pipeline Conditions for 10/11/2022,,TE
+39,Operational Flow Order,10/10/2022 08:13:46 AM,10/11/2022 09:00:00 AM,01/08/2023 08:13:46 AM,126014,TE M2-30 and M3 Operational Flow Order,,TE
+40,Capacity Constraint,10/09/2022 03:45:59 PM,10/10/2022 09:00:00 AM,10/11/2022 09:00:00 AM,126013,TE Pipeline Conditions for 10/10/2022,,TE
+41,Capacity Constraint,10/08/2022 03:42:18 PM,10/09/2022 09:00:00 AM,10/10/2022 09:00:00 AM,125981,TE Pipeline Conditions for 10/9/2022 -- CORRECTION,,TE
+42,Capacity Constraint,10/08/2022 03:27:41 PM,10/09/2022 09:00:00 AM,10/10/2022 09:00:00 AM,125980,TE Pipeline Conditions for 10/9/2022,,TE
+43,Capacity Constraint,10/07/2022 03:55:11 PM,10/08/2022 09:00:00 AM,10/09/2022 09:00:00 AM,125947,TE Pipeline Conditions for 10/8/2022,,TE
+44,Capacity Constraint,10/06/2022 03:25:00 PM,10/07/2022 09:00:00 AM,10/08/2022 09:00:00 AM,125908,TE Pipeline Conditions for 10/7/2022,,TE
+45,Force Majeure,10/06/2022 02:52:30 PM,10/06/2022 02:52:30 PM,01/04/2023 02:52:30 PM,125890,Athens Compressor Station Force Majeure,,TE
+46,Capacity Constraint,10/06/2022 02:52:00 PM,10/06/2022 02:52:00 PM,01/04/2023 02:52:00 PM,125889,Athens Compressor Station Unplanned Outage,,TE
+47,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125885,LINK System Maintenance the weekend of October 14th,,TE
+48,Capacity Constraint,10/05/2022 04:14:00 PM,10/06/2022 09:00:00 AM,10/07/2022 09:00:00 AM,125855,TE Pipeline Conditions for 10/6/2022,,TE
+49,Capacity Constraint,10/04/2022 05:07:18 PM,10/04/2022 05:07:18 PM,01/02/2023 05:07:18 PM,125821,French Lick to Seymour Line 1 Isolation -- COMPLETE,,TE
+50,Capacity Constraint,10/04/2022 03:36:00 PM,10/05/2022 09:00:00 AM,10/06/2022 09:00:00 AM,125817,TE Pipeline Conditions for 10/5/2022,,TE
+51,Operational Flow Order,10/04/2022 01:01:58 PM,10/04/2022 01:01:58 PM,01/02/2023 01:01:58 PM,125788,TE System Wide OFO Market Area -- LIFTED (Access Area Remains),,TE
+52,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125784,"Reminder - Application Maintenance on Wednesday October 5, 2022",,TE
+53,Other,10/03/2022 04:47:00 PM,10/03/2022 04:47:00 PM,10/06/2022 10:30:00 AM,125763,Texas Eastern Gas Purchase (PTR) - STX October 2022,,TE
+54,Capacity Constraint,10/03/2022 03:08:31 PM,10/04/2022 09:00:00 AM,10/05/2022 09:00:00 AM,125757,TE Pipeline Conditions for 10/4/2022,,TE
+55,Capacity Constraint,10/02/2022 03:41:34 PM,10/03/2022 09:00:00 AM,10/04/2022 09:00:00 AM,125721,TE Pipeline Conditions for 10/3/2022,,TE
+56,Capacity Constraint,10/01/2022 03:31:28 PM,10/02/2022 09:00:00 AM,10/03/2022 09:00:00 AM,125691,TE Pipeline Conditions for 10/2/2022,,TE
+57,Force Majeure,10/01/2022 07:12:11 AM,10/01/2022 07:12:11 AM,12/30/2022 07:12:11 AM,125662,TE Line 73 Valve Section 1A Force Majeure -- COMPLETE,,TE
+58,Capacity Constraint,10/01/2022 07:09:28 AM,10/01/2022 07:09:28 AM,12/30/2022 07:09:28 AM,125661,TE Line 73 Valve Section 1A Unplanned Outage -- COMPLETE,,TE
+59,Capacity Constraint,09/30/2022 03:43:04 PM,10/01/2022 09:00:00 AM,10/02/2022 09:00:00 AM,125653,TE Pipeline Conditions for 10/12022,,TE
+60,Capacity Constraint,09/30/2022 08:35:16 AM,09/30/2022 08:35:16 AM,12/29/2022 08:35:16 AM,125622,TE Line 73 Valve Section 1A Unplanned Outage -- UPDATE,,TE
+61,Capacity Constraint,09/29/2022 02:58:00 PM,09/30/2022 09:00:00 AM,10/01/2022 09:00:00 AM,125604,TE Pipeline Conditions for 9/30/2022,,TE
+62,Operational Flow Order,09/29/2022 08:27:27 AM,10/01/2022 09:00:00 AM,12/28/2022 08:27:27 AM,125590,TE System Wide Operational Flow Order Effective 10/1,,TE
+63,Operational Flow Order,09/29/2022 08:22:28 AM,10/01/2022 09:00:00 AM,12/28/2022 08:22:28 AM,125589,TE M2-30 and M3 Operational Flow Order -- LIFTED,,TE
+64,Capacity Constraint,09/28/2022 07:10:00 PM,09/28/2022 07:10:00 PM,12/27/2022 07:10:00 PM,125586,TE Line 73 Valve Section 1A Unplanned Outage -- UPDATE,,TE
+65,Capacity Constraint,09/28/2022 03:30:00 PM,09/29/2022 09:00:00 AM,09/30/2022 09:00:00 AM,125581,TE Pipeline Conditions for 9/29/2022,,TE
+66,Operational Flow Order,09/28/2022 02:41:35 PM,09/29/2022 09:00:00 AM,12/27/2022 02:41:35 PM,125563,TE Individual Operational Flow Order -- LIFTED,,TE
+67,Capacity Constraint,09/27/2022 03:17:00 PM,09/28/2022 09:00:00 AM,09/29/2022 09:00:00 AM,125540,TE Pipeline Conditions for 9/28/2022,,TE
+68,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125512,"LINK Application Maintenance Postponed until October 5, 2022",,TE
+69,Capacity Constraint,09/27/2022 07:56:00 AM,09/27/2022 07:56:00 AM,12/26/2022 07:56:00 AM,125488,TE Line 73 Valve Section 1A Unplanned Outage -- UPDATE,,TE
+70,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125484,"Reminder about Application Maintenance on Wednesday September 28, 2022",,TE
+71,Capacity Constraint,09/26/2022 03:19:55 PM,09/27/2022 09:00:00 AM,09/28/2022 09:00:00 AM,125464,TE Pipeline Conditions for 9/27/2022,,TE
+72,Capacity Constraint,09/26/2022 08:15:00 AM,09/26/2022 08:15:00 AM,12/25/2022 08:15:00 AM,125435,TE Line 73 Valve Section 1A Unplanned Outage -- UPDATE,,TE
+73,Capacity Constraint,09/25/2022 02:44:34 PM,09/26/2022 09:00:00 AM,09/27/2022 09:00:00 AM,125419,TE Pipeline Conditions for 9/26/2022,,TE
+74,Capacity Constraint,09/24/2022 02:51:10 PM,09/25/2022 09:00:00 AM,09/26/2022 09:00:00 AM,125391,TE Pipeline Conditions for 9/25/2022,,TE
+75,Capacity Constraint,09/23/2022 02:58:54 PM,09/24/2022 09:00:00 AM,09/25/2022 09:00:00 AM,125360,TE Pipeline Conditions for 9/24/2022,,TE
+76,Capacity Constraint,09/22/2022 03:10:43 PM,09/23/2022 09:00:00 AM,09/24/2022 09:00:00 AM,125344,TE Pipeline Conditions for 9/23/2022,,TE
+77,Capacity Constraint,09/21/2022 06:30:09 PM,09/21/2022 06:30:09 PM,12/20/2022 06:30:09 PM,125313,TE Line 73 Valve Section 1A Unplanned Outage -- UPDATE,,TE
+78,Capacity Constraint,09/21/2022 02:52:05 PM,09/22/2022 09:00:00 AM,09/23/2022 09:00:00 AM,125298,TE Pipeline Conditions for 9/22/2022,,TE
+79,Capacity Constraint,09/20/2022 06:43:22 PM,09/21/2022 09:00:00 AM,09/22/2022 09:00:00 AM,125282,TE Pipeline Conditions for 9/21/2022 -- INTRADAY,,TE
+80,Capacity Constraint,09/20/2022 06:33:38 PM,09/20/2022 06:33:38 PM,09/21/2022 09:00:00 AM,125281,TE Pipeline Conditions for 9/20/2022 -- INTRADAY,,TE
+81,Operational Flow Order,09/20/2022 06:10:35 PM,09/22/2022 09:00:00 AM,12/19/2022 09:00:00 AM,125278,TE M2-30 and M3 Operational Flow Order,,TE
+82,Force Majeure,09/20/2022 05:48:05 PM,09/20/2022 05:48:05 PM,12/19/2022 05:48:05 PM,125276,TE Line 73 Valve Section 1A Force Majeure,,TE
+83,Capacity Constraint,09/20/2022 05:46:35 PM,09/20/2022 05:46:35 PM,12/19/2022 05:46:35 PM,125275,TE Line 73 Valve Section 1A Unplanned Outage,,TE
+84,Capacity Constraint,09/20/2022 02:54:24 PM,09/21/2022 09:00:00 AM,09/22/2022 09:00:00 AM,125258,TE Pipeline Conditions for 9/21/2022,,TE
+85,Operational Flow Order,09/20/2022 11:00:00 AM,09/21/2022 09:00:00 AM,12/19/2022 09:00:00 AM,125246,TE Individual Operational Flow Order EFF 9/21/22,,TE
+86,Capacity Constraint,09/19/2022 03:45:00 PM,09/20/2022 09:00:00 AM,09/21/2022 09:00:00 AM,125239,TE Pipeline Conditions for 9/20/2022,,TE
+87,Capacity Constraint,09/18/2022 03:23:00 PM,09/19/2022 09:00:00 AM,09/20/2022 09:00:00 AM,125211,TE Pipeline Conditions for 9/19/2022,,TE
+88,Capacity Constraint,09/17/2022 03:32:00 PM,09/18/2022 09:00:00 AM,09/19/2022 09:00:00 AM,125183,TE Pipeline Conditions for 9/18/2022,,TE
+89,Capacity Constraint,09/17/2022 10:50:00 AM,09/17/2022 10:50:00 AM,12/16/2022 10:50:00 AM,125157,Chester Junction Line 1-A-1 Valve Section 1 Maintenance -- COMPLETE,,TE
+90,Capacity Constraint,09/16/2022 03:03:00 PM,09/17/2022 09:00:00 AM,09/18/2022 09:00:00 AM,125138,TE Pipeline Conditions for 9/17/2022,,TE
+91,Capacity Constraint,09/15/2022 03:27:00 PM,09/16/2022 09:00:00 AM,09/17/2022 09:00:00 AM,125123,TE Pipeline Conditions for 9/16/2022,,TE
+92,Capacity Constraint,09/15/2022 02:23:23 PM,09/15/2022 02:23:23 PM,09/16/2022 09:00:00 AM,125107,TE Pipeline Conditions for 9/15/2022 -- INTRADAY,,TE
+93,Capacity Constraint,09/14/2022 04:19:00 PM,09/15/2022 09:00:00 AM,09/16/2022 09:00:00 AM,125096,TE Pipeline Conditions for 9/15/2022,,TE
+94,Capacity Constraint,09/13/2022 03:37:00 PM,09/14/2022 09:00:00 AM,09/15/2022 09:00:00 AM,125063,TE Pipeline Conditions for 9/14/2022,,TE
+95,Capacity Constraint,09/12/2022 03:13:00 PM,09/13/2022 09:00:00 AM,09/14/2022 09:00:00 AM,124984,TE Pipeline Conditions for 9/13/2022,,TE
+96,Capacity Constraint,09/12/2022 07:55:00 AM,09/12/2022 09:00:00 AM,12/11/2022 07:55:00 AM,124954,LaRose to White Castle Line 40 Isolation -- COMPLETE,,TE
+97,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124950,"Changes to LINK System Maintenance for the week of September 12, 2022",,TE
+98,Capacity Constraint,09/11/2022 03:21:24 PM,09/12/2022 09:00:00 AM,09/13/2022 09:00:00 AM,124928,TE Pipeline Conditions for 9/12/2022,,TE
+99,Capacity Constraint,09/10/2022 03:02:03 PM,09/11/2022 09:00:00 AM,09/12/2022 09:00:00 AM,124889,TE Pipeline Conditions for 9/11/2022,,TE
+100,Capacity Constraint,09/09/2022 03:22:10 PM,09/10/2022 09:00:00 AM,09/11/2022 09:00:00 AM,124866,TE Pipeline Conditions for 9/10/2022,,TE
+101,Capacity Constraint,09/08/2022 04:03:00 PM,09/09/2022 09:00:00 AM,09/10/2022 09:00:00 AM,124820,TE Pipeline Conditions for 9/9/2022,,TE
+102,Capacity Constraint,09/07/2022 04:00:00 PM,09/08/2022 09:00:00 AM,09/09/2022 09:00:00 AM,124790,TE Pipeline Conditions for 9/8/2022,,TE
+103,Capacity Constraint,09/06/2022 09:18:57 PM,09/06/2022 09:18:57 PM,12/05/2022 09:18:57 PM,124758,TE Unplanned Meter Outage MR71455,,TE
+104,Capacity Constraint,09/06/2022 05:05:00 PM,09/07/2022 09:00:00 AM,09/08/2022 09:00:00 AM,124757,TE Pipeline Conditions for 9/7/2022 -- INTRADAY,,TE
+105,Capacity Constraint,09/06/2022 03:22:00 PM,09/07/2022 09:00:00 AM,09/08/2022 09:00:00 AM,124752,TE Pipeline Conditions for 9/7/2022,,TE
+106,Capacity Constraint,09/05/2022 04:44:35 PM,09/06/2022 09:00:00 AM,09/07/2022 04:44:35 PM,124721,TE Pipeline Conditions for 9/6/2022 -- INTRADAY,,TE
+107,Capacity Constraint,09/05/2022 02:57:45 PM,09/06/2022 09:00:00 AM,09/07/2022 09:00:00 AM,124702,TE Pipeline Conditions for 9/6/2022,,TE
+108,Capacity Constraint,09/04/2022 02:42:15 PM,09/05/2022 09:00:00 AM,09/06/2022 09:00:00 AM,124673,TE Pipeline Conditions for 9/5/2022,,TE
+109,Capacity Constraint,09/03/2022 02:51:13 PM,09/04/2022 09:00:00 AM,09/05/2022 09:00:00 AM,124645,TE Pipeline Conditions for 9/4/2022,,TE
+110,Capacity Constraint,09/02/2022 03:03:53 PM,09/03/2022 09:00:00 AM,09/04/2022 09:00:00 AM,124614,TE Pipeline Conditions for 9/3/2022,,TE
+111,Capacity Constraint,09/01/2022 03:56:00 PM,09/02/2022 09:00:00 AM,09/03/2022 09:00:00 AM,124600,TE Pipeline Conditions for 9/2/2022,,TE
+112,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124569,Application Maintenance on September 14,,TE
+113,Operational Flow Order,09/01/2022 08:10:56 AM,09/03/2022 09:00:00 AM,09/06/2022 09:00:00 AM,124547,"TE Operational Flow Order M2-24, M2-30 and M3 EFF 9/3",,TE
+114,Operational Flow Order,09/01/2022 07:57:25 AM,09/01/2022 09:00:00 AM,11/30/2022 07:57:25 AM,124545,TE Individual Operational Flow Order -- LIFTED,,TE
+115,Capacity Constraint,08/31/2022 03:34:00 PM,09/01/2022 09:00:00 AM,09/02/2022 09:00:00 AM,124536,TE Pipeline Conditions for 9/1/2022,,TE
+116,Capacity Constraint,08/30/2022 03:43:00 PM,08/31/2022 09:00:00 AM,09/01/2022 09:00:00 AM,124508,TE Pipeline Conditions for 8/31/2022,,TE
+117,Capacity Constraint,08/29/2022 03:50:00 PM,08/30/2022 09:00:00 AM,08/31/2022 09:00:00 AM,124472,TE Pipeline Conditions for 8/30/2022,,TE
+118,Capacity Constraint,08/28/2022 03:30:00 PM,08/29/2022 09:00:00 AM,08/30/2022 09:00:00 AM,124417,TE Pipeline Conditions for 8/29/2022,,TE
+119,Capacity Constraint,08/27/2022 03:36:00 PM,08/28/2022 09:00:00 AM,08/29/2022 09:00:00 AM,124390,TE Pipeline Conditions for 8/28/2022,,TE
+120,Capacity Constraint,08/26/2022 03:55:00 PM,08/27/2022 09:00:00 AM,08/28/2022 09:00:00 AM,124361,TE Pipeline Conditions for 8/27/2022,,TE
+121,Capacity Constraint,08/25/2022 03:25:00 PM,08/26/2022 09:00:00 AM,08/27/2022 09:00:00 AM,124332,TE Pipeline Conditions for 8/26/2022,,TE
+122,Capacity Constraint,08/24/2022 03:45:00 PM,08/25/2022 09:00:00 AM,08/26/2022 09:00:00 AM,124289,TE Pipeline Conditions for 8/25/2022,,TE
+123,Capacity Constraint,08/23/2022 03:29:03 PM,08/24/2022 09:00:00 AM,08/25/2022 09:00:00 AM,124262,TE Pipeline Conditions for 8/24/2022,,TE
+124,Operational Flow Order,08/23/2022 03:00:00 PM,08/25/2022 09:00:00 AM,08/27/2022 09:00:00 AM,124235,TE M2-30 and M3 Operational Flow Order,,TE
+125,Capacity Constraint,08/22/2022 03:03:28 PM,08/23/2022 09:00:00 AM,08/24/2022 09:00:00 AM,124215,TE Pipeline Conditions for 8/23/2022,,TE
+126,Capacity Constraint,08/21/2022 03:02:12 PM,08/22/2022 09:00:00 AM,08/23/2022 09:00:00 AM,124184,TE Pipeline Conditions for 8/22/2022,,TE
+127,Capacity Constraint,08/20/2022 03:29:14 PM,08/21/2022 09:00:00 AM,08/22/2022 09:00:00 AM,124168,TE Pipeline Conditions for 8/21/2022,,TE
+128,Capacity Constraint,08/19/2022 03:09:46 PM,08/20/2022 09:00:00 AM,08/21/2022 09:00:00 AM,124139,TE Pipeline Conditions for 8/20/2022,,TE
+129,Capacity Constraint,08/18/2022 03:06:39 PM,08/19/2022 09:00:00 AM,08/20/2022 09:00:00 AM,124099,TE Pipeline Conditions for 8/19/2022,,TE
+130,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124074,LINK System Maintenance the weekend of September 16th,,TE
+131,Capacity Constraint,08/17/2022 03:28:06 PM,08/18/2022 09:00:00 AM,08/19/2022 09:00:00 AM,124052,TE Pipeline Conditions for 8/18/2022,,TE
+132,Capacity Constraint,08/16/2022 03:16:19 PM,08/17/2022 09:00:00 AM,08/18/2022 09:00:00 AM,123974,TE Pipeline Conditions for 8/17/2022,,TE
+133,Operational Flow Order,08/16/2022 02:06:15 PM,08/18/2022 09:00:00 AM,11/14/2022 02:06:15 PM,123953,TE Individual Operational Flow Order EFF 8/18/22 -- CORRECTION,,TE
+134,Operational Flow Order,08/16/2022 01:46:10 PM,08/18/2022 09:00:00 AM,11/14/2022 01:46:10 PM,123950,TE Individual Operational Flow Order EFF 8/18/22,,TE
+135,Capacity Constraint,08/15/2022 03:16:33 PM,08/16/2022 09:00:00 AM,08/17/2022 09:00:00 AM,123945,TE Pipeline Conditions for 8/16/2022,,TE
+136,Capacity Constraint,08/14/2022 02:55:48 PM,08/15/2022 09:00:00 AM,08/16/2022 09:00:00 AM,123907,TE Pipeline Conditions for 8/15/2022,,TE
+137,Capacity Constraint,08/13/2022 02:55:44 PM,08/14/2022 09:00:00 AM,08/15/2022 09:00:00 AM,123880,TE Pipeline Conditions for 8/14/2022,,TE
+138,Capacity Constraint,08/12/2022 03:03:00 PM,08/13/2022 09:00:00 AM,08/14/2022 09:00:00 AM,123846,TE Pipeline Conditions for 8/13/2022,,TE
+139,Capacity Constraint,08/11/2022 02:48:00 PM,08/12/2022 09:00:00 AM,08/13/2022 09:00:00 AM,123810,TE Pipeline Conditions for 8/12/2022,,TE
+140,Capacity Constraint,08/10/2022 03:05:00 PM,08/11/2022 09:00:00 AM,08/12/2022 09:00:00 AM,123774,TE Pipeline Conditions for 8/11/2022,,TE
+141,Capacity Constraint,08/09/2022 03:01:00 PM,08/10/2022 09:00:00 AM,08/11/2022 09:00:00 AM,123730,TE Pipeline Conditions for 8/10/2022,,TE
+142,Capacity Constraint,08/08/2022 03:15:00 PM,08/09/2022 09:00:00 AM,08/10/2022 09:00:00 AM,123715,TE Pipeline Conditions for 8/9/2022,,TE
+143,Operational Flow Order,08/08/2022 03:00:00 PM,08/10/2022 09:00:00 AM,11/06/2022 09:54:13 AM,123690,TE M2-30 & M3 OFO - LIFTED EFF 9AM 8/10,,TE
+144,Capacity Constraint,08/07/2022 03:16:10 PM,08/08/2022 09:00:00 AM,08/09/2022 09:00:00 AM,123685,TE Pipeline Conditions for 8/8/2022,,TE
+145,Capacity Constraint,08/06/2022 03:51:32 PM,08/07/2022 09:00:00 AM,08/08/2022 09:00:00 AM,123657,TE Pipeline Conditions for 8/7/2022,,TE
+146,Capacity Constraint,08/05/2022 03:42:53 PM,08/06/2022 09:00:00 AM,08/07/2022 09:00:00 AM,123628,TE Pipeline Conditions for 8/6/2022,,TE
+147,Capacity Constraint,08/04/2022 03:06:27 PM,08/05/2022 09:00:00 AM,08/06/2022 09:00:00 AM,123593,TE Pipeline Conditions for 8/5/2022,,TE
+148,Capacity Constraint,08/03/2022 04:45:44 PM,08/04/2022 09:00:00 AM,08/05/2022 09:00:00 AM,123566,TE Pipeline Conditions for 8/4/2022 -- INTRADAY,,TE
+149,Capacity Constraint,08/03/2022 03:45:00 PM,08/04/2022 09:00:00 AM,08/05/2022 09:00:00 AM,123559,TE Pipeline Conditions for 8/4/2022,,TE
+0,Capacity Constraint,10/31/2022 03:49:00 PM,11/01/2022 09:00:00 AM,11/02/2022 09:00:00 AM,126907,VCP Pipeline Conditions for 11/1/2022,,VCP
+1,Capacity Constraint,10/30/2022 02:30:00 PM,10/31/2022 09:00:00 AM,11/01/2022 09:00:00 AM,126844,VCP Pipeline Conditions for 10/31/2022,,VCP
+2,Capacity Constraint,10/29/2022 02:30:00 PM,10/30/2022 09:00:00 AM,10/31/2022 09:00:00 AM,126814,VCP Pipeline Conditions for 10/30/2022,,VCP
+3,Capacity Constraint,10/28/2022 03:09:00 PM,10/29/2022 09:00:00 AM,10/30/2022 09:00:00 AM,126800,VCP Pipeline Conditions for 10/29/2022,,VCP
+4,Capacity Constraint,10/27/2022 02:43:00 PM,10/28/2022 09:00:00 AM,10/29/2022 09:00:00 AM,126749,VCP Pipeline Conditions for 10/28/2022,,VCP
+5,Capacity Constraint,10/26/2022 02:08:03 PM,10/27/2022 09:00:00 AM,10/28/2022 09:00:00 AM,126695,VCP Pipeline Conditions for 10/27/2022,,VCP
+6,Capacity Constraint,10/25/2022 03:22:17 PM,10/26/2022 09:00:00 AM,10/27/2022 09:00:00 AM,126666,VCP Pipeline Conditions for 10/26/2022,,VCP
+7,Capacity Constraint,10/24/2022 03:06:00 PM,10/25/2022 09:00:00 AM,10/26/2022 09:00:00 AM,126628,VCP Pipeline Conditions for 10/25/2022,,VCP
+8,Capacity Constraint,10/23/2022 04:28:21 PM,10/23/2022 04:28:21 PM,11/01/2022 09:00:00 AM,126593,VCP Brownsville to End of Line Cleaning & ILI Tool Runs -- COMPLETE,,VCP
+9,Capacity Constraint,10/23/2022 03:20:13 PM,10/24/2022 09:00:00 AM,10/25/2022 09:00:00 AM,126580,VCP Pipeline Conditions for 10/24/2022,,VCP
+10,Capacity Constraint,10/22/2022 01:52:11 PM,10/23/2022 09:00:00 AM,10/24/2022 09:00:00 AM,126527,VCP Pipeline Conditions for 10/23/2022,,VCP
+11,Capacity Constraint,10/21/2022 02:27:01 PM,10/22/2022 09:00:00 AM,10/23/2022 09:00:00 AM,126500,VCP Pipeline Conditions for 10/22/2022,,VCP
+12,Capacity Constraint,10/20/2022 03:58:07 PM,10/21/2022 09:00:00 AM,10/22/2022 09:00:00 AM,126477,VCP Pipeline Conditions for 10/21/2022,,VCP
+13,Capacity Constraint,10/19/2022 04:16:00 PM,10/20/2022 09:00:00 AM,10/21/2022 09:00:00 AM,126439,VCP Pipeline Conditions for 10/20/2022,,VCP
+14,Capacity Constraint,10/19/2022 01:36:01 PM,10/20/2022 09:00:00 AM,01/17/2023 09:00:00 AM,126413,VCP Gas Quality Notification - UPDATE,,VCP
+15,Capacity Constraint,10/19/2022 07:02:00 AM,10/20/2022 09:00:00 AM,01/17/2023 09:00:00 AM,126407,VCP Gas Quality Notification,,VCP
+16,Computer System Status,10/14/2022 10:04:50 AM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,126223,Reminder: LINK System Maintenance this weekend (October 14 to October 17),,VCP
+17,Computer System Status,10/06/2022 02:28:06 PM,10/14/2022 10:30:00 PM,10/17/2022 02:30:00 AM,125886,LINK System Maintenance the weekend of October 14th,,VCP
+18,Computer System Status,10/04/2022 07:49:45 AM,10/05/2022 05:00:00 AM,10/05/2022 10:00:00 AM,125785,"Reminder - Application Maintenance on Wednesday October 5, 2022",,VCP
+19,Computer System Status,09/27/2022 01:36:32 PM,09/27/2022 01:36:32 PM,12/26/2022 01:36:32 PM,125513,"LINK Application Maintenance Postponed until October 5, 2022",,VCP
+20,Computer System Status,09/26/2022 03:38:32 PM,09/26/2022 03:38:32 PM,12/25/2022 03:38:32 PM,125485,"Reminder about Application Maintenance on Wednesday September 28, 2022",,VCP
+21,Computer System Status,09/12/2022 07:11:29 AM,09/12/2022 07:11:29 AM,12/11/2022 07:11:29 AM,124951,"Changes to LINK System Maintenance for the week of September 12, 2022",,VCP
+22,Computer System Status,09/01/2022 08:45:25 AM,09/01/2022 08:45:25 AM,11/30/2022 08:45:25 AM,124570,Application Maintenance on September 14,,VCP
+23,Computer System Status,08/23/2022 08:25:51 AM,08/23/2022 08:25:51 AM,11/21/2022 08:25:51 AM,124231,Implementation of Texas Railroad Commission Curtailment Rule,,VCP
+24,Computer System Status,08/18/2022 07:14:34 AM,08/18/2022 07:14:34 AM,11/16/2022 07:14:34 AM,124075,LINK System Maintenance the weekend of September 16th,,VCP
+25,Force Majeure,08/08/2022 07:03:10 AM,08/08/2022 07:03:10 AM,11/06/2022 07:03:10 AM,123686,Brownsville Compressor Station Force Majeure -- LIFTED,,VCP
+26,Force Majeure,08/04/2022 10:24:28 AM,08/04/2022 10:24:28 AM,11/02/2022 10:24:28 AM,123569,Brownsville Compressor Station Force Majeure,,VCP
